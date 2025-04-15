@@ -148,8 +148,6 @@
         </div>
     </div>
 
-
-
     <!-- Welcome -->
     <!-- <div id="welcome" class="mt-3 mb-3" style="margin-top: 40px;">
             <div class="container">
@@ -200,7 +198,8 @@
                                     </div>
                                     <div>
                                         <p style="color:black;  margin-bottom: 0px;">Capilla del Sagrado corazón</p>
-                                        <p style="color:black;">Independencia Sur 38 Mazamitla, Jalisco México. A un costado del templo de San Jose De Gracia</p>
+                                        <p style="color:black;">Independencia Sur 38 c.p 59500, San José de Gracia, Mich.</p>
+                                        <p><span class="secondary-font" style="color: black;">A un costado del templo de San Jose De Gracia</span></p>
                                     </div>
                                     <div>
                                         <strong>
@@ -244,14 +243,14 @@
                                         <p style="color:black;">Loma Blanca, fraccionamiento las Azaleas, Mazamitla, Jal.</p>
                                         <p class="secondary-font" style="color:black;">Tomar en consideracion que La recepcion se encuentra a 20 - 25min del centro de mazamitla. Es de facil acceso en vehiculo, todo el camino pavimentando</p>
                                     </div>
-                                    <!-- <div>
+                                    <div>
                                         <strong>
                                             <span><i style="color: #4c6199;" class="fas fa-map fa-3x"></i></span>
                                             <button class="btn btn-sm btn-primary" style="background: white; border-color: white; height: 40px;">
-                                                <p style="margin-bottom: 0px;"><a style="color: black;" target="_blank" href="https://maps.app.goo.gl/2RvWcV5bVT2TewhD7">Google Maps</a></p>
+                                                <p style="margin-bottom: 0px;"><a style="color: black;" target="_blank" href="https://maps.app.goo.gl/7kpLPjf4s9pNEPsv8">Google Maps</a></p>
                                             </button>
                                         </strong>
-                                    </div> -->
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -260,9 +259,6 @@
             </div>
         </div>
     </div>
-
-
-
 
     <!-- Papas y Padrinos-->
 
@@ -360,12 +356,9 @@
         </div>
     </div> -->
 
-
-
     <!-- Dress Code -->
 
-
-    <div id="fh5co-services" class="fh5co-section-gray">
+    <div id="fh5co-services" class="fh5co-section-gray" style="background-color: white !important;">
         <div id="codigovestimenta" class="container">
 
             <div class="row animate-box fadeInUp animated-fast">
@@ -381,7 +374,7 @@
                             <br>
                             <h4><strong>Elegante casual</strong></h4>
                             <p>Mujeres: vestido largo o de cóctel elegante.</p>
-                            <p>Hombres: traje claro u oscuro con o sin corbata ó Pantalon y camisa de Vestir</p>
+                            <p>Hombres: traje claro u oscuro con o sin corbata ó pantalon y camisa de vestir</p>
                         </div>
                         <br>
                         <div class="secondary-font">
@@ -396,7 +389,7 @@
                 <div class="animate-box text-center fadeInUp animated-fast">
                     <div class="col-md-12">
                         <div class="animate-box fadeInUp animated-fast" style="margin: 20px 0px">
-                            <img class="img-fluid" src="images/fany-y-paul/paleta-colores.png" alt="" style="max-width: 20%;">
+                            <img class="img-fluid" src="images/fany-y-paul/paleta_de_colores.png" alt="" style="max-width: 80%;">
                         </div>
                     </div>
                 </div>
@@ -405,11 +398,6 @@
 
         </div>
     </div>
-
-
-
-
-
 
     <!-- <div id="fh5co-services" class="fh5co-section-gray">
         <div id="codigovestimenta" class="container">
@@ -453,81 +441,6 @@
 
         </div>
     </div> -->
-
-
-
-    <!-- Hospedaje Recomendado-->
-
-    <div id="fh5co-testimonial" class="">
-        <div id="hospedajerecomendado" class="container">
-            <div class="row">
-                <div class="animate-box">
-                    <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style="margin-bottom: 0px !important;">
-                        <span>Estadía</span>
-                        <h2 class="d_title" style="color: #4c6199 !important; font-size:2.5rem !important">Hospedaje Recomendado</h2>
-                        <!-- <h5 class="sub-titulo-hotel">¡Mazamitla cuenta con hospedajes de todos los tamaños y para todos los presupuestos!</h5> -->
-                    </div>
-                </div>
-
-                <div class="col-md-12 animate-box">
-                    <div class="wrap-testimony">
-                        <div class="owl-carousel-fullwidth">
-
-                            <div class="item">
-                                <div class="testimony-slide active text-center">
-                                    <a target="_blank" href="https://maps.app.goo.gl/sXPPfyWBXPcQZLK29">
-                                        <figure>
-                                            <img src="images/fany-y-paul/bacana.webp" alt="user">
-                                        </figure>
-                                    </a>
-                                    <span>Cabañas Bacana<a target="_blank" href="https://maps.app.goo.gl/sXPPfyWBXPcQZLK29" class="twitter"><br>
-                                            Galeana 53, El Charco, 49500 Mazamitla, Jal..</a></span>
-                                    <a target="_blank" style="color: #4c6199;" href="https://maps.app.goo.gl/sXPPfyWBXPcQZLK29" class="twitter">Mapa</a>
-                                </div>
-                            </div>
-
-                            <div class="item">
-                                <div class="testimony-slide active text-center">
-                                    <a target="_blank" href="https://maps.app.goo.gl/DYK4rpEqiGR3L4Jf6">
-                                        <figure>
-                                            <img src="images/fany-y-paul/quinta_de_cuevas.png" alt="user">
-                                        </figure>
-                                    </a>
-                                    <span>Cabañas Quinta de Cuevas<a target="_blank" href="https://maps.app.goo.gl/DYK4rpEqiGR3L4Jf6" class="twitter"><br>
-                                            Galeana 53, El Charco, 49500 Mazamitla, Jal..</a></span>
-                                    <a target="_blank" style="color: #4c6199;" href="https://maps.app.goo.gl/DYK4rpEqiGR3L4Jf6" class="twitter">Mapa</a>
-                                </div>
-                            </div>
-
-                            <div class="item">
-                                <div class="testimony-slide active text-center">
-                                    <a target="_blank" href="https://www.lenadormazamitla.com/">
-                                        <figure>
-                                            <img src="images/fany-y-paul/lenador.jpg" alt="Portozul Hotel & Suites">
-                                        </figure>
-                                    </a>
-                                    <span>Hotel Leñador Mazamitla <a target="_blank" href="https://maps.app.goo.gl/LFZDeyD47s4JFyHF6" class="twitter"><br>Netzahualcóyotl 4, La Gloria, 49500 Mazamitla, Jal.</a></span>
-                                    <a target="_blank" style="color: #4c6199;" href="https://maps.app.goo.gl/LFZDeyD47s4JFyHF6" class="twitter">Mapa</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="text-center mb-3 mt-3">
-                            <span class="secondary-font">
-                                Si planeas brindar con ganas… ¡mejor quédate cerca!
-                                Sabemos que la fiesta se va a poner buena, así que si piensas tomar, te recomendamos reservar en las cabañas del lugar.
-                                Estaremos lejos del centro de Mazamitla, y lo más importante es que todos lleguen seguros a casa (o a su cama 😄).
-                            </span>
-                        </div>
-
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
 
 
     <!-- Mesa de Regalos -->
@@ -602,7 +515,7 @@
         </div>
     </div>
 
-    <!-- Aviso -->
+    <!-- Aviso Confirmación -->
     <div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/fany-y-paul/galeria/3.jpg);">
         <div class="overlay" style="background: rgb(0 0 0 / 76%);"></div>
         <div id="asistencia" class="container">
@@ -652,6 +565,78 @@
     </div>
 
 
+    <!-- Hospedaje Recomendado-->
+
+    <div id="fh5co-testimonial" class="">
+        <div id="hospedajerecomendado" class="container">
+            <div class="row">
+                <div class="animate-box">
+                    <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style="margin-bottom: 0px !important;">
+                        <span>Estadía</span>
+                        <h2 class="d_title" style="color: #4c6199 !important; font-size:2.5rem !important">Hospedaje Recomendado</h2>
+                        <!-- <h5 class="sub-titulo-hotel">¡Mazamitla cuenta con hospedajes de todos los tamaños y para todos los presupuestos!</h5> -->
+                    </div>
+                </div>
+
+                <div class="col-md-12 animate-box">
+                    <div class="wrap-testimony">
+                        <div class="owl-carousel-fullwidth">
+
+                            <div class="item">
+                                <div class="testimony-slide active text-center">
+                                    <a target="_blank" href="https://maps.app.goo.gl/sXPPfyWBXPcQZLK29">
+                                        <figure>
+                                            <img src="images/fany-y-paul/bacana.webp" alt="user">
+                                        </figure>
+                                    </a>
+                                    <span>Cabañas Bacana<a target="_blank" href="https://maps.app.goo.gl/sXPPfyWBXPcQZLK29" class="twitter"><br>
+                                            Galeana 53, El Charco, 49500 Mazamitla, Jal..</a></span>
+                                    <a target="_blank" style="color: #4c6199;" href="https://maps.app.goo.gl/sXPPfyWBXPcQZLK29" class="twitter">Mapa</a>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="testimony-slide active text-center">
+                                    <a target="_blank" href="https://maps.app.goo.gl/DYK4rpEqiGR3L4Jf6">
+                                        <figure>
+                                            <img src="images/fany-y-paul/quinta_de_cuevas.png" alt="user">
+                                        </figure>
+                                    </a>
+                                    <span>Cabañas Quinta de Cuevas<a target="_blank" href="https://maps.app.goo.gl/DYK4rpEqiGR3L4Jf6" class="twitter"><br>
+                                            Galeana 53, El Charco, 49500 Mazamitla, Jal..</a></span>
+                                    <a target="_blank" style="color: #4c6199;" href="https://maps.app.goo.gl/DYK4rpEqiGR3L4Jf6" class="twitter">Mapa</a>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="testimony-slide active text-center">
+                                    <a target="_blank" href="https://www.lenadormazamitla.com/">
+                                        <figure>
+                                            <img src="images/fany-y-paul/lenador.jpg" alt="Portozul Hotel & Suites">
+                                        </figure>
+                                    </a>
+                                    <span>Hotel Leñador Mazamitla <a target="_blank" href="https://maps.app.goo.gl/LFZDeyD47s4JFyHF6" class="twitter"><br>Netzahualcóyotl 4, La Gloria, 49500 Mazamitla, Jal.</a></span>
+                                    <a target="_blank" style="color: #4c6199;" href="https://maps.app.goo.gl/LFZDeyD47s4JFyHF6" class="twitter">Mapa</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="text-center mb-3 mt-3">
+                            <span class="secondary-font">
+                                Si planeas brindar con ganas… ¡mejor quédate cerca!
+                                Sabemos que la fiesta se va a poner buena, así que si piensas tomar, te recomendamos reservar en las cabañas del lugar.
+                                Estaremos lejos del centro de Mazamitla, y lo más importante es que todos lleguen seguros a casa (o a su cama 😄).
+                            </span>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
     <!-- Galería -->
     <div id="fh5co-gallery" class="fh5co-section-gray">
         <div class="container">
@@ -659,7 +644,7 @@
                 <div class="col-md-8 col-md-offset-2 text-center animate-box">
                     <span>Nuestros Recuerdos</span>
                     <h2 class="d_title">Galería</h2>
-                    <p>Compartimos con gente especial una parte de nosotros.</p>
+                    <span class="secondary-font mb-5">Compartimos con gente especial una parte de nosotros.</span>
                 </div>
             </div>
             <div class="row row-bottom-padded-md">

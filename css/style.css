@@ -2428,7 +2428,7 @@ form label {
 }
 
 .d_title {
-  color: #5b7c62!important;
+  color: #1f3e6c!important;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -2573,7 +2573,7 @@ color: #000;
 }
 
 #fh5co-gallery {
-  background-color: rgba(218, 215, 210, 1);
+  background-color: var(--color-principal);
 }
 
 #margin-none {
