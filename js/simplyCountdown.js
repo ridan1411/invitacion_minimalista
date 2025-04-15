@@ -1,11 +1,11 @@
   // This is an example with default parameters
 
     simplyCountdown('#cuenta', {
-            year: 2024, // required
-            month: 10, // required
-            day: 19, // required
-            hours: 15, // Default is 0 [0-23] integer
-            minutes: 30, // Default is 0 [0-59] integer
+            year: 2025, // required
+            month: 05, // required
+            day: 24, // required
+            hours: 16, // Default is 0 [0-23] integer
+            minutes: 00, // Default is 0 [0-59] integer
             seconds: 0, // Default is 0 [0-59] integer
             words: { //words displayed into the countdown
                 days: { singular: 'día', plural: 'días' },

@@ -1,3 +1,10 @@
+:root {
+  --color-principal: #e0e0e0;
+  --color-secundario: #c0cdf0;
+  --color-terciario: #c0cdf0d1;
+}
+
+
 @font-face {
   font-family: 'Malibu';
   src: url("../fonts/Malibu/Malibu.woff");
@@ -20,6 +27,20 @@
   src: url("../fonts/Montserrat/Montserrat-SemiBold.ttf");
 }
 
+@font-face {
+  font-family: 'Lora';
+  src: url("../fonts/Lora/Lora-VariableFont_wght.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto-Slab';
+  src: url("../fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 
 
 /* =======================================================
@@ -28,16 +49,16 @@
 *
 * ======================================================= */
 body {
-  font-family: 'Nanum Myeongjo', serif;
+  font-family: 'Roboto-Slab', serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
   color: #000;
-  background: #fffaed;
+  background: var(--color-principal);
 }
 
 strong {
-  font-family: 'Kalnia', serif;
+  font-family: 'Roboto-Slab', serif;
 }
 
 .mt-1 {
@@ -181,8 +202,8 @@ a {
 a:hover,
 a:active,
 a:focus {
-  /*color: #173b15;*/
-  color: #5b7c62;
+  /*color: var(--color-secundario);*/
+  color: var(--color-secundario);
   outline: none;
   text-decoration: none;
 }
@@ -200,25 +221,25 @@ h6,
 figure {
   color: #000;
   font-weight: 400;
-  font-family: 'Kalnia', serif;
+  font-family: 'Roboto-Slab', serif;
   margin: 0 0 20px 0;
 }
 
 ::-webkit-selection {
   color: #fff;
-  /*background: #173b15;*/
-  background: #173b15;
+  /*background: var(--color-secundario);*/
+  background: var(--color-secundario);
 }
 
 ::-moz-selection {
   color: #fff;
-  /*background: #173b15;*/
-  background: #173b15;
+  /*background: var(--color-secundario);*/
+  background: var(--color-secundario);
 }
 
 ::selection {
   color: #fff;
-  /*background: #173b15;*/
+  /*background: var(--color-secundario);*/
   background: #b78e24;
 }
 
@@ -356,8 +377,8 @@ figure {
 }
 
 .fh5co-nav ul li.btn-cta a {
-  /*color: #173b15;*/
-/* color: #173b15;
+  /*color: var(--color-secundario);*/
+/* color: var(--color-secundario);
 } */
 
 /* .fh5co-nav ul li.btn-cta a span {
@@ -501,7 +522,7 @@ figure {
 }
 
 .fh5co-cover {
-  background-image: url(../images/valeria-javier/principal.jpg);
+  background-image: url(../images/fany-y-paul/principal.jpg);
   height: 100vh;
 }
 
@@ -1087,7 +1108,7 @@ figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  /*color: #173b15;*/
+  /*color: var(--color-secundario);*/
   color: #5b7c62;
   padding-left: 10px;
   padding-right: 10px;
@@ -1110,7 +1131,7 @@ figure {
 }
 
 .fh5co-contact-info ul li:before {
-  /*color: #173b15;*/
+  /*color: var(--color-secundario);*/
   color: #5b7c62;
   position: absolute;
   left: 0;
@@ -1235,7 +1256,7 @@ form label {
 .fh5co-cover .display-tc .btn {
   padding: 15px 20px;
   background: #fff !important;
-  /*color: #173b15;*/
+  /*color: var(--color-secundario);*/
   color: #5b7c62;
   border: none !important;
   font-size: 14px;
@@ -1304,7 +1325,7 @@ form label {
 .simply-days-section {
   /*background: #f16d9e!important;*/
   background: transparent !important;
-  border-right: 2px solid rgba(218, 215, 210, 0.7) !important;
+  border-right: 2px solid #c0cdf0cf !important;
 }
 
 .simply-countdown>.simply-section {
@@ -1421,7 +1442,7 @@ form label {
   font-size: 20px;
   background: #fff;
   padding: 20px;
-  /*color: #173b15;*/
+  /*color: var(--color-secundario);*/
   color: #5b7c62;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1447,7 +1468,7 @@ form label {
 }
 
 .couple-half h3 {
-  font-family: 'Kalnia', serif;
+  font-family: 'Roboto', sans-serif;
   color: #5b7c62;
   font-size: 30px;
   font-weight: bold;
@@ -1591,7 +1612,7 @@ form label {
   line-height: 1.5;
   font-weight: bold;
   color: black;
-  font-family: 'Kalnia', serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 @media screen and (max-width: 768px) {
@@ -1615,7 +1636,7 @@ form label {
 }
 
 #fh5co-testimonial {
-  background-color: rgba(218, 215, 210, 1);
+  background-color: white;
 }
 
 #fh5co-testimonial .wrap-testimony {
@@ -1635,7 +1656,7 @@ form label {
 }
 
 #fh5co-testimonial .wrap-testimony .testimony-slide span a.twitter {
-  color: #173b15;
+  color: var(--color-secundario);
   font-weight: 300;
 }
 
@@ -1742,7 +1763,7 @@ form label {
   display: table-cell;
   vertical-align: middle;
   font-size: 30px;
-  color: #173b15;
+  color: var(--color-secundario);
 }
 
 .feature-left .feature-copy {
@@ -1822,7 +1843,7 @@ form label {
 #fh5co-mesa-regalos .btn {
   height: 54px;
   border: none !important;
-  background: #5b7c62 !important;
+  background: var(--color-secundario) !important;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -1877,7 +1898,7 @@ form label {
 
 .owl-carousel .owl-controls .owl-dot.active span {
   background: transparent;
-  border: 2px solid #173b15;
+  border: 2px solid var(--color-secundario);
 }
 
 #fh5co-offcanvas {
@@ -2164,15 +2185,15 @@ form label {
 
 .btn-primary {
   background: #5b7c62;
-  color: #fffaed;
+  color: #c0cdf070;
   border: 2px solid #5b7c62;
 }
 
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
-  background: #9E7A20 !important;
-  border-color: #9E7A20 !important;
+  background: var(--color-secundario) !important;
+  border-color: var(--color-secundario) !important;
 }
 
 .btn-primary.btn-outline {
@@ -2198,7 +2219,7 @@ form label {
 .btn-success:focus,
 .btn-success:active {
   background: #5b7c62!important;
-  border-color: #5b7c62 !important;
+  border-color: var(--color-secundario) !important;
 }
 
 .btn-success.btn-outline {
@@ -2350,7 +2371,7 @@ form label {
 .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #173b15;
+  border-color: var(--color-secundario);
 }
 
 .row-pb-md {
@@ -2379,7 +2400,7 @@ form label {
 /*Main*/
 #fh5co-counter .event-wrap,
 #fh5co-event .event-wrap {
-  background: rgb(218, 215, 210, 0.9);
+  background: var(--color-terciario);
 }
 
 #fh5co-offcanvas a {
@@ -2402,13 +2423,13 @@ form label {
 }
 
 .fh5co-heading h2 {
-  /*color: #173b15!important;*/
+  /*color: var(--color-secundario)!important;*/
   color: #ffffff;
 }
 
 .d_title {
   color: #5b7c62!important;
-  font-family: 'Kalnia', serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .sub-titulo-hotel{
@@ -2463,9 +2484,12 @@ color: #000;
 
 .texto-titulo {
   color: #000;
-  font-family: 'Kalnia', serif;
   font-size: 1.5rem;
   padding: 5px;
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
 }
 
 
@@ -2736,4 +2760,27 @@ header#fh5co-header {
 
 .d_title{
   font-size: 2rem!important;
+}
+
+.primary-font{
+  font-family: "Roboto Slab", serif !important;
+  font-optical-sizing: auto !important;
+  font-weight: weight !important;
+  font-style: normal !important;
+}
+.secondary-font{
+  font-family: "Lora", serif !important;
+  font-optical-sizing: auto !important;
+  font-weight: weight !important;
+  font-style: normal !important;
+}
+
+.primary-color{
+  color: var(--color-principal) !important;
+}
+.secondary-color{
+  color: var(--color-secundario) !important;
+}
+.tertiary-color{
+  color: var(--color-terciario) !important;
 }

@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Mi Boda | Valeria y Javier</title>
+    <title>Mi Boda | Fany y Paul</title>
     <link rel="shortcut icon" type="image/x-icon" href="images/ico.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=" " />
@@ -29,10 +29,13 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <!-- <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet"> -->
-    <!-- Fuentes valeria-javier -->
-    <link href="https://fonts.googleapis.com/css2?family=Kalnia&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&display=swap" rel="stylesheet">
-
+    <!-- Fuentes Fany-Paul -->
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Kalnia&display=swap" rel="stylesheet"> -->
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&display=swap" rel="stylesheet"> -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
 
     <!-- Animate.css -->
     <link rel="stylesheet" href="css/animate.css">
@@ -49,7 +52,7 @@
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
 
     <!-- Theme style  -->
-    <link rel="stylesheet" href="css/style.css?v=5.0.0">
+    <link rel="stylesheet" href="css/style.css?v=1.1.1">
 
     <!-- Modernizr JS -->
     <script src="js/modernizr-2.6.2.min.js"></script>
@@ -97,12 +100,12 @@
                     <div class="col-md-8 col-md-offset-2 text-center">
                         <div class="display-t">
                             <div class="display-tc animate-box " data-animate-effect="fadeIn">
-                                <h1>VALERIA<br> &amp; <br> JAVIER</h1>
-                                <h2><strong> 19 OCT, 2024 </strong></h2>
+                                <h1>Fany<br> &amp; <br> Paul</h1>
+                                <h2><strong class="secondary-font"> 24 May, 2025 </strong></h2>
                                 <div id="cuenta" class="simply-countdown simply-countdown-one"></div><!-- aqui uno -->
                                 <!--link agenda google calendar-->
-
-                                <p><a target="_blank" href="https://calendar.app.google/XgKF2xqu6AMkX5788" class="btn btn-default btn-sm">Save the date</a></p>
+                                <!-- 
+                                <p><a target="_blank" href="https://calendar.app.google/XgKF2xqu6AMkX5788" class="btn btn-default btn-sm">Save the date</a></p> -->
 
                                 <!--link agenda google calendar-->
                             </div>
@@ -113,13 +116,36 @@
     </div>
     </header>
 
-    <div class="texto-titulo mt-1">
-        <p>¡Nos alegra invitarlos a nuestra boda! <br>
-            Con cariño y esfuerzo hemos diseñado un día memorable y lleno de significados para celebrar nuestro amor junto a ustedes nuestros seres queridos. <br>
-            Esta celebración no será una boda convencional, lo haremos a nuestra manera. Además de estar
-            en contacto con la naturaleza, hemos decidido darle un giro con una ceremonia única y especial, que reflejará nuestra unión y los
-            más de diez increíbles años siendo un tremendo equipo. <br>
-            ¡Esperamos que se unan a nosotros para disfrutar de una velada íntima, llena de energía, amor y tequila!</p>
+    <div class="primary-font mt-3 text-center" style="padding: 20px;">
+        <p>
+            Con el corazón lleno de amor y gratitud,
+            te invitamos a ser testigo del inicio de nuestra nueva historia juntos.
+            Acompáñanos a celebrar el día en que un “sí” se convierte en “para siempre”.</p>
+        <br>
+    </div>
+    <div class="container">
+        <div class="row text-center mb-3" style="display: flex; justify-content: center;">
+            <div class="col ml-2 mr-2">
+                <div class="animate-box" style="padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #f9f9f9;">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-chat-left-heart" viewBox="0 0 16 16">
+                        <path d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4.414A2 2 0 0 0 3 11.586l-2 2V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v12.793a.5.5 0 0 0 .854.353l2.853-2.853A1 1 0 0 1 4.414 12H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
+                        <path d="M8 3.993c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132" />
+                    </svg>
+                    <br>
+                    <span class="secondary-font">"Nuestra historia continúa, ahora como uno solo, construyendo nuestro camino con amor, respeto y complicidad."</span>
+                </div>
+            </div>
+            <div class="col ml-2 mr-2">
+                <div class="animate-box" style="padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #f9f9f9;">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black" class="bi bi-chat-right-heart" viewBox="0 0 16 16">
+                        <path d="M2 1a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h9.586a2 2 0 0 1 1.414.586l2 2V2a1 1 0 0 0-1-1zm12-1a2 2 0 0 1 2 2v12.793a.5.5 0 0 1-.854.353l-2.853-2.853a1 1 0 0 0-.707-.293H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2z" />
+                        <path d="M8 3.993c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132" />
+                    </svg>
+                    <br>
+                    <span class="secondary-font">"Desde que te vi supe que eras tú. Hoy no solo te elijo, te celebro. Y quiero caminar contigo todos los días de mi vida."</span>
+                </div>
+            </div>
+        </div>
     </div>
 
 
@@ -130,20 +156,20 @@
                 <div class="couple-wrap animate-box">
                     <div class="couple-half">
                         <div class="groom">
-                            <img src="images/valeria-javier/novia01.jpg" alt="groom" class="img-responsive">
+                            <img src="images/Fany-Paul/novia01.jpg" alt="groom" class="img-responsive">
                         </div>
                         <div class="desc-groom">
-                            <h3 style="margin-bottom: 0px;">Valeria García Monzón</h3>
+                            <h3 style="margin-bottom: 0px;">Fany García Monzón</h3>
                             <p>"Amo tu valentía, tu determinación, lo que arriesgas por mí cada día y el amor que me demuestras"</p>
                         </div>
                     </div>
                     <p class="heart text-center"><i class="icon-heart2"></i></p>
                     <div class="couple-half">
                         <div class="bride">
-                            <img src="images/valeria-javier/novio01.jpg" alt="groom" class="img-responsive">
+                            <img src="images/Fany-Paul/novio01.jpg" alt="groom" class="img-responsive">
                         </div>
                         <div class="desc-bride">
-                            <h3 style="margin-bottom: 0px;">Javier Martinez Amezcua </h3>
+                            <h3 style="margin-bottom: 0px;">Paul Martinez Amezcua </h3>
                             <p> "Eres tú y nadie más, Tú, con quien quiero reír, caer y caminar en esta vida" </p>
                         </div>
                     </div>
@@ -151,73 +177,39 @@
             </div>
         </div> -->
 
-    <!-- Evento -->
-    <div id="fh5co-event" class="fh5co-bg" style="background-image:url(images/img_bg_1.jpg); background-size: cover; background-size: cover;background-position: center; background-repeat: no-repeat; padding: 2em 0; z-index: 100;">
+
+    <!-- Ceremonia -->
+    <div id="fh5co-event" class="fh5co-bg" style="background-image:url(images/fany-y-paul/galeria/6.jpg); background-size: cover; background-size: cover;background-position: top; background-repeat: no-repeat; padding: 2em 0; z-index: 100;">
         <div class="overlay"></div>
         <div id="cuandodonde" class="container">
             <div class="row">
                 <div class="display-t">
                     <div class="display-tc">
                         <div class="col-md-10">
-                            <!-- <div class="col-md-6 col-sm-6 text-center">
-                                    <div class="event-wrap animate-box" style="padding: 25px;">
-                                        <span><i style="color: #819269;" class="fas fa-church fa-3x"></i></span>
-                                        <h3 style="color:black; padding-bottom: 0px !important;">Ceremonia Religiosa
-                                        </h3>
-                                        <div class="event-col">
-                                            <p style="color:black; margin-bottom: 0px;"> Sábado, 19 de Octubre de 2024
-                                            </p>
-                                            <p style="color:black;"> 03:30 PM </p>
-                                        </div>
-                                        <div>
-                                            <i class="icon-location" style="color:#819269;"></i>
-                                        </div>
-                                        <div>
-                                            <p style="color:black;  margin-bottom: 0px;">Templo de San José de gracia 
-                                            </p>
-                                            <p style="color:black;">59500, San José de Gracia, Mich.</p>
-                                            <br>
-                                        </div>
-                                        <div>
-                                            <strong>
-                                                <p style="margin-bottom: 0px;"><a style="color: #819269;"
-                                                        target="_blank"
-                                                        href="https://maps.app.goo.gl/iJ3oUXrWwuU4s2sU9">Google Maps</a></p>
-                                            </strong>
-                                        </div>
-                                        <div>
-                                            <strong><a style="color: #819269; cursor: pointer;" data-toggle="modal"
-                                                    data-target="#parroquiaimg">Foto</a></strong>
-                                        </div>
-                                    </div>
-                                </div> -->
-                            <div class="col-md-12 col-sm-12 text-center">
-                                <div class="event-wrap animate-box" style="padding: 25px;">
-                                    <span><i style="color: #5b7c62;;" class="fas fa-glass-cheers fa-3x"></i></span>
-                                    <h3 style="color:black; padding-bottom: 0px !important;">Evento</h3>
+                            <div class="col text-center">
+                                <div class="event-wrap animate-box" style="padding: 25px; background-color: #ffffffc7 !important;">
+                                    <span><i style="color: #4c6199;" class="fas fa-church fa-3x"></i></span>
+                                    <h3 style="color:black; padding-bottom: 0px !important;">Ceremonia</h3>
                                     <div class="event-col">
-                                        <p style="color:black; margin-bottom: 0px;"> Sábado, 19 de Octubre de 2024
+                                        <p style="color:black; margin-bottom: 0px;"> Sábado, 24 de Mayo de 2025
                                         </p>
-                                        <p style="color:black;"> 03:30 PM </p>
+                                        <p style="color:black;"> 04:00 PM </p>
                                     </div>
                                     <div>
-                                        <i class="icon-location" style="color:#5b7c62;"></i>
+                                        <i class="fas fa-map-marker-alt" style="color: #4c6199;"></i>
                                     </div>
                                     <div>
-                                        <p style="color:black;  margin-bottom: 0px;">Casa Rural Mazamitla</p>
-                                        <p style="color:black;">Privada Reforma 49 Epenche Chico, 49500 Mazamitla, Jalisco México.</p>
+                                        <p style="color:black;  margin-bottom: 0px;">Capilla del Sagrado corazón</p>
+                                        <p style="color:black;">Independencia Sur 38 Mazamitla, Jalisco México. A un costado del templo de San Jose De Gracia</p>
                                     </div>
                                     <div>
                                         <strong>
-                                            <p style="margin-bottom: 0px;"><a style="color: #5b7c62;;" target="_blank" href="https://maps.app.goo.gl/2RvWcV5bVT2TewhD7">Google Maps</a></p>
+                                            <span><i style="color: #4c6199;" class="fas fa-map fa-3x"></i></span>
+                                            <button class="btn btn-sm btn-primary" style="background: white; border-color: white; height: 40px;">
+                                                <p style="margin-bottom: 0px;"><a style="color: black;" target="_blank" href="https://maps.app.goo.gl/XJy4dwJMJb2WmscZ9">Google Maps</a></p>
+                                            </button>
                                         </strong>
                                     </div>
-                                    <!-- <div>
-                                            <strong>
-                                                <a style="color: #5b7c62;; cursor: pointer;" data-toggle="modal"
-                                                    data-target="#labonitaimg">Foto</a>
-                                            </strong>
-                                        </div> -->
                                 </div>
                             </div>
                         </div>
@@ -226,6 +218,51 @@
             </div>
         </div>
     </div>
+
+    <!-- Evento -->
+    <div id="fh5co-event" class="fh5co-bg" style="background-image:url(images/fany-y-paul/galeria/8.jpg); background-size: cover; background-size: cover;background-position: top; background-repeat: no-repeat; padding: 2em 0; z-index: 100;">
+        <div class="overlay"></div>
+        <div id="cuandodonde" class="container">
+            <div class="row">
+                <div class="display-t">
+                    <div class="display-tc">
+                        <div class="col-md-10">
+                            <div class="col text-center">
+                                <div class="event-wrap animate-box" style="padding: 25px; background-color: #ffffffc7 !important;">
+                                    <span><i style="color: #4c6199;" class="fas fa-glass-cheers fa-3x"></i></span>
+                                    <h3 style="color:black; padding-bottom: 0px !important;">Evento</h3>
+                                    <div class="event-col">
+                                        <p style="color:black; margin-bottom: 0px;"> Sábado, 24 de Mayo de 2025
+                                        </p>
+                                        <p style="color:black;"> 05:00 PM </p>
+                                    </div>
+                                    <div>
+                                        <i class="fas fa-map-marker-alt" style="color: #4c6199;"></i>
+                                    </div>
+                                    <div>
+                                        <p style="color:black;  margin-bottom: 0px;">Bacana</p>
+                                        <p style="color:black;">Loma Blanca, fraccionamiento las Azaleas, Mazamitla, Jal.</p>
+                                        <p class="secondary-font" style="color:black;">Tomar en consideracion que La recepcion se encuentra a 20 - 25min del centro de mazamitla. Es de facil acceso en vehiculo, todo el camino pavimentando</p>
+                                    </div>
+                                    <!-- <div>
+                                        <strong>
+                                            <span><i style="color: #4c6199;" class="fas fa-map fa-3x"></i></span>
+                                            <button class="btn btn-sm btn-primary" style="background: white; border-color: white; height: 40px;">
+                                                <p style="margin-bottom: 0px;"><a style="color: black;" target="_blank" href="https://maps.app.goo.gl/2RvWcV5bVT2TewhD7">Google Maps</a></p>
+                                            </button>
+                                        </strong>
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
 
     <!-- Papas y Padrinos-->
 
@@ -325,6 +362,100 @@
 
 
 
+    <!-- Dress Code -->
+
+
+    <div id="fh5co-services" class="fh5co-section-gray">
+        <div id="codigovestimenta" class="container">
+
+            <div class="row animate-box fadeInUp animated-fast">
+                <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style="margin-bottom: 5px;">
+                    <h2 class="d_title" style="color: #4c6199 !important; font-size:2.5rem !important;">Código de Vestimenta</h2>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="animate-box text-center fadeInUp animated-fast">
+                    <div class="col-md-12">
+                        <div class="secondary-font">
+                            <br>
+                            <h4><strong>Elegante casual</strong></h4>
+                            <p>Mujeres: vestido largo o de cóctel elegante.</p>
+                            <p>Hombres: traje claro u oscuro con o sin corbata ó Pantalon y camisa de Vestir</p>
+                        </div>
+                        <br>
+                        <div class="secondary-font">
+                            <p>Queremos que luzcan increíbles, pero sin complicaciones.
+                                Traje y vestido elegante son bienvenidos, pero no obligatorios.
+                                No se preocupen por reglas estrictas: hay colores sugeridos, pero lo más importante es que vengan cómodos, con estilo y con muchas ganas de celebrar con nosotros. Importante:
+                                Estaremos en el bosque, y por la noche refresca bastante.
+                                ¡No olvides traer abrigo!</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="animate-box text-center fadeInUp animated-fast">
+                    <div class="col-md-12">
+                        <div class="animate-box fadeInUp animated-fast" style="margin: 20px 0px">
+                            <img class="img-fluid" src="images/fany-y-paul/paleta-colores.png" alt="" style="max-width: 20%;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+
+
+
+
+
+    <!-- <div id="fh5co-services" class="fh5co-section-gray">
+        <div id="codigovestimenta" class="container">
+
+            <div class="row animate-box">
+                <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style='margin-bottom: 5px;'>
+                    <h2 class="d_title" style="color: #4c6199 !important; font-size:2.5rem !important;">Código de Vestimenta</h2>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="animate-box text-center">
+                    <div class="col-md-12">
+                        <div>
+                            <h4>Elegante casual</h4>
+                            <p>Mujeres: vestido largo o de cóctel elegante.</p>
+                            <p>Hombres: traje claro u oscuro con o sin corbata ó Pantalon y camisa de Vestir</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="animate-box text-center">
+                    <div class="col-md-12">
+                        <div>
+                            <p>Queremos que luzcan increíbles, pero sin complicaciones.
+                                Traje y vestido elegante son bienvenidos, pero no obligatorios.
+                                No se preocupen por reglas estrictas: hay colores sugeridos, pero lo más importante es que vengan cómodos, con estilo y con muchas ganas de celebrar con nosotros. Importante:
+                                Estaremos en el bosque, y por la noche refresca bastante.
+                                ¡No olvides traer abrigo!</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="animate-box text-center">
+                    <div class="col-md-12">
+                        <div class="animate-box" style="margin: 20px 0px">
+                            <img class="img-fluid" src="images/Fany-Paul/paleta-colores.png" alt="" style="max-width: 90%;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div> -->
+
+
+
     <!-- Hospedaje Recomendado-->
 
     <div id="fh5co-testimonial" class="">
@@ -333,8 +464,8 @@
                 <div class="animate-box">
                     <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style="margin-bottom: 0px !important;">
                         <span>Estadía</span>
-                        <h2 class="d_title" style="color: #5b7c62 !important; font-size:2.5rem !important">Hospedaje Recomendado</h2>
-                        <h5 class="sub-titulo-hotel">¡Mazamitla cuenta con hospedajes de todos los tamaños y para todos los presupuestos!</h5>
+                        <h2 class="d_title" style="color: #4c6199 !important; font-size:2.5rem !important">Hospedaje Recomendado</h2>
+                        <!-- <h5 class="sub-titulo-hotel">¡Mazamitla cuenta con hospedajes de todos los tamaños y para todos los presupuestos!</h5> -->
                     </div>
                 </div>
 
@@ -344,26 +475,27 @@
 
                             <div class="item">
                                 <div class="testimony-slide active text-center">
-                                    <a target="_blank" href="https://www.bosqueescondido.com.mx/">
+                                    <a target="_blank" href="https://maps.app.goo.gl/sXPPfyWBXPcQZLK29">
                                         <figure>
-                                            <img src="images/valeria-javier/bosque-escondido.jpg" alt="Portozul Hotel & Suites">
+                                            <img src="images/fany-y-paul/bacana.webp" alt="user">
                                         </figure>
                                     </a>
-                                    <span style="color:#5b7c62;">Hotel Bosque Escondido<a target="_blank" href="https://maps.app.goo.gl/MHVKiu85fuwWSRJeA" class="twitter"><br>Vista Nevada #100, Fracc. Pueblo Bonito. 49500 - Mazamitla, Jalisco</a></span>
-                                    <a target="_blank" style="color: #5b7c62;" href="https://maps.app.goo.gl/MHVKiu85fuwWSRJeA" class="twitter">Mapa</a>
+                                    <span>Cabañas Bacana<a target="_blank" href="https://maps.app.goo.gl/sXPPfyWBXPcQZLK29" class="twitter"><br>
+                                            Galeana 53, El Charco, 49500 Mazamitla, Jal..</a></span>
+                                    <a target="_blank" style="color: #4c6199;" href="https://maps.app.goo.gl/sXPPfyWBXPcQZLK29" class="twitter">Mapa</a>
                                 </div>
                             </div>
 
                             <div class="item">
                                 <div class="testimony-slide active text-center">
-                                    <a target="_blank" href="https://latrojedemazamitla.com.mx/">
+                                    <a target="_blank" href="https://maps.app.goo.gl/DYK4rpEqiGR3L4Jf6">
                                         <figure>
-                                            <img src="images/valeria-javier/la-troje.jpg" alt="user">
+                                            <img src="images/fany-y-paul/quinta_de_cuevas.png" alt="user">
                                         </figure>
                                     </a>
-                                    <span>Hotel La Troje<a target="_blank" href="https://maps.app.goo.gl/QLF5BrQejgtMMGBp8" class="twitter"><br>
+                                    <span>Cabañas Quinta de Cuevas<a target="_blank" href="https://maps.app.goo.gl/DYK4rpEqiGR3L4Jf6" class="twitter"><br>
                                             Galeana 53, El Charco, 49500 Mazamitla, Jal..</a></span>
-                                    <a target="_blank" style="color: #819269;" href="https://maps.app.goo.gl/QLF5BrQejgtMMGBp8" class="twitter">Mapa</a>
+                                    <a target="_blank" style="color: #4c6199;" href="https://maps.app.goo.gl/DYK4rpEqiGR3L4Jf6" class="twitter">Mapa</a>
                                 </div>
                             </div>
 
@@ -371,17 +503,24 @@
                                 <div class="testimony-slide active text-center">
                                     <a target="_blank" href="https://www.lenadormazamitla.com/">
                                         <figure>
-                                            <img src="images/valeria-javier/lenador.jpg" alt="Portozul Hotel & Suites">
+                                            <img src="images/fany-y-paul/lenador.jpg" alt="Portozul Hotel & Suites">
                                         </figure>
                                     </a>
-                                    <span>Hotel Leñador Mazamitla <a target="_blank" href="https://maps.app.goo.gl/xX4xPrnFCGLEdtjJA" class="twitter"><br>Netzahualcóyotl 4, La Gloria, 49500 Mazamitla, Jal.</a></span>
-                                    <a target="_blank" style="color: #819269;" href="https://maps.app.goo.gl/xX4xPrnFCGLEdtjJA" class="twitter">Mapa</a>
+                                    <span>Hotel Leñador Mazamitla <a target="_blank" href="https://maps.app.goo.gl/LFZDeyD47s4JFyHF6" class="twitter"><br>Netzahualcóyotl 4, La Gloria, 49500 Mazamitla, Jal.</a></span>
+                                    <a target="_blank" style="color: #4c6199;" href="https://maps.app.goo.gl/LFZDeyD47s4JFyHF6" class="twitter">Mapa</a>
                                 </div>
                             </div>
-
-
-
                         </div>
+
+                        <div class="text-center mb-3 mt-3">
+                            <span class="secondary-font">
+                                Si planeas brindar con ganas… ¡mejor quédate cerca!
+                                Sabemos que la fiesta se va a poner buena, así que si piensas tomar, te recomendamos reservar en las cabañas del lugar.
+                                Estaremos lejos del centro de Mazamitla, y lo más importante es que todos lleguen seguros a casa (o a su cama 😄).
+                            </span>
+                        </div>
+
+
                     </div>
                 </div>
             </div>
@@ -389,91 +528,65 @@
     </div>
 
 
-    <!-- Dress Code -->
-    <div id="fh5co-services" class="fh5co-section-gray">
-        <div id="codigovestimenta" class="container">
 
-            <div class="row animate-box">
-                <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style='margin-bottom: 5px;'>
-                    <h2 class="d_title" style="color: #5b7c62 !important; font-size:2.5rem !important;">Código de Vestimenta</h2>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="animate-box text-center">
-                    <div class="col-md-12">
-                        <div>
-                            <h4>Riguroso formal… y Amazing!</h4>
-                            <p>¡Valoramos que cumplas con la paleta de colores sugerida! No niños, será en jardín, no olvides tu abrigo... ¡y toda la actitud!</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="animate-box text-center">
-                    <div class="col-md-12">
-                        <div class="animate-box" style="margin: 20px 0px">
-                            <img class="img-fluid" src="images/valeria-javier/paleta-colores.png" alt="" style="max-width: 90%;">
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-        </div>
-    </div>
 
     <!-- Mesa de Regalos -->
-    <div id="fh5co-mesa-regalos" class="" style="margin-bottom: 30px;">
-        <div id="mesaregalos" class="container">
+    <div id="fh5co-mesa-regalos mt-5" class="" style="margin-bottom: 30px;">
+        <div id="mesaregalos" class="container mt-5">
             <div class="row animate-box">
                 <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style="margin-bottom: 0px;">
-                    <h2 style="color: #5b7c62 !important; font-size:2.5rem !important">Mesa de Regalos</h2>
+                    <h2 style="color: #4c6199 !important; font-size:2.5rem !important">Mesa de Regalos</h2>
                 </div>
             </div>
             <div class="wrap-gift">
                 <div class="container">
                     <div class="row">
-
-                            <div class="card-gift mt-3 text-center animate-box mr-gift">
-                                <div class="card">
-                                    <div>
-                                        <img class="img-fluid" style="max-width: 50%;" src="images/mesa-regalos-ama.png">
-                                    </div>
-                                    <div class="card-body" style="margin-top: 15px;">
-                                        <h5 class="card-title">El "Modernou":</h5>
-                                        <h5 class="card-title">Amazon </h5>
-                                        <p class="card-text">Valeria y Javier</p>
-                                        <a target="_blank" href="https://www.amazon.com.mx/wedding/share/valyjavier" class="btn " style="background: #5b7c62; border-color: #5b7c62; height: 40px;">Regalar</a>
-                                    </div>
+                        <div class="row text-center animate-box">
+                            <span class="secondary-font">
+                                Su presencia es el mejor regalo. Sin emabargo si lo prefieres, podrias obsequiarnos una ayuda para nuestro (matrimonio) futuro y proyectos juntos.
+                            </span>
+                        </div>
+                        <div class="card-gift mt-3 text-center animate-box mr-gift">
+                            <div class="card">
+                                <div>
+                                    <img class="img-fluid" style="max-width: 50%;" src="images/mesa-regalos-ama.png">
+                                </div>
+                                <div class="card-body" style="margin-top: 15px;">
+                                    <!-- <h5 class="card-title">El "Modernou":</h5> -->
+                                    <h5 class="card-title">Amazon </h5>
+                                    <p class="card-text">Fany y Paul</p>
+                                    <a target="_blank" href="https://www.amazon.com.mx/wedding/registry/3LSQW66GQ9OZ5" class="btn " style="color:white; background: #4c6199; border-color: #4c6199; height: 40px;">Regalar</a>
                                 </div>
                             </div>
+                        </div>
 
-                            <div class="card-gift mt-3 text-center animate-box mr-gift">
-                                <div class="card">
-                                    <div>
-                                        <img class="img-fluid" style="max-width: 50%;" src="images/mesa-regalos-liv.jpg">
-                                    </div>
-                                    <div class="card-body" style="margin-top: 15px;">
-                                        <h5 class="card-title">El Clásico:</h5>
-                                        <h5 class="card-title">Liverpool</h5>
-                                        <p class="card-text">Número de evento:51361929</p>
-                                        <a target="_blank" href="https://mesaderegalos.liverpool.com.mx/milistaderegalos/51361929" class="btn btn-primary" style="background: #b78e24; border-color: #b78e24; height: 40px;">Regalar</a>
-                                    </div>
+                        <!-- <div class="card-gift mt-3 text-center animate-box mr-gift">
+                            <div class="card">
+                                <div>
+                                    <img class="img-fluid" style="max-width: 50%;" src="images/mesa-regalos-liv.jpg">
+                                </div>
+                                <div class="card-body" style="margin-top: 15px;">
+                                    <h5 class="card-title">El Clásico:</h5>
+                                    <h5 class="card-title">Liverpool</h5>
+                                    <p class="card-text">Número de evento:51361929</p>
+                                    <a target="_blank" href="https://mesaderegalos.liverpool.com.mx/milistaderegalos/51361929" class="btn btn-primary" style="background: #b78e24; border-color: #b78e24; height: 40px;">Regalar</a>
                                 </div>
                             </div>
+                        </div> -->
 
-                            <div class="card-gift mt-3 text-center animate-box mr-gift">
-                                <div class="card">
-                                    <div>
-                                        <img class="img-fluid mt-5" style="max-width: 50%;" src="images/mesa-regalos-bbva.png">
-                                    </div>
-                                    <div class="card-body" style="margin-top: 50px;">
-                                        <h5 class="card-title">Estamos construyendo nuestro hogar, si están dispuestos, hemos establecido una cuenta bancaria donde pueden hacer una aportación directa, podemos facturarles :)</h5>
-                                        <h4 class="card-text mt-5">CLABE: 012 320 02863098583 4</h4>
-                                        <h5 class="card-title ">Javier Martinez Amezcua, BBVA</h5>
-                                        <!-- <a target="_blank" href="#" class="btn btn-primary" style="background: #b78e24; border-color: #b78e24; height: 40px;">Regalar</a> -->
-                                    </div>
+                        <!-- <div class="card-gift mt-3 text-center animate-box mr-gift">
+                            <div class="card">
+                                <div>
+                                    <img class="img-fluid mt-5" style="max-width: 50%;" src="images/mesa-regalos-bbva.png">
+                                </div>
+                                <div class="card-body" style="margin-top: 50px;">
+                                    <h5 class="card-title">Estamos construyendo nuestro hogar, si están dispuestos, hemos establecido una cuenta bancaria donde pueden hacer una aportación directa, podemos facturarles :)</h5>
+                                    <h4 class="card-text mt-5">CLABE: 012 320 02863098583 4</h4>
+                                    <h5 class="card-title ">Paul Martinez Amezcua, BBVA</h5>
+                                    <a target="_blank" href="#" class="btn btn-primary" style="background: #b78e24; border-color: #b78e24; height: 40px;">Regalar</a>
                                 </div>
                             </div>
+                        </div> -->
 
                     </div>
                 </div>
@@ -490,16 +603,16 @@
     </div>
 
     <!-- Aviso -->
-    <div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/galeria/8.jpg);">
+    <div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/fany-y-paul/galeria/3.jpg);">
         <div class="overlay" style="background: rgb(0 0 0 / 76%);"></div>
         <div id="asistencia" class="container">
-            <div class="row animate-box">
-                <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-
-                    <p style="color: white; margin-top: 20px;">Estamos emocionados de celebrar nuestro día especial y nos encantaría contar con su presencia.</p>
-                    <p><strong>
-                            <h6 style="color:white;">¡Confirma pronto para celebrar juntos!</h6>
-                        </strong></p>
+            <div class="row animate-box" style="margin-bottom: 20px;">
+                <div class="col-md-8 col-md-offset-2 text-center">
+                    <div style="color: white; text-align: center; padding: 20px; background: rgba(0, 0, 0, 0.6); border-radius: 10px;">
+                        <p class="secondary-font" style="margin-bottom: 15px; font-size: 1.2rem;">
+                            Tu presencia significa mucho para nosotros. Por cuestiones de organización, te pedimos confirmes antes del <strong>29 de Abril</strong>. ¡Gracias por ayudarnos a hacer de este día algo inolvidable!
+                        </p>
+                    </div>
                 </div>
             </div>
             <div class="row animate-box" style="margin-bottom: 20px;">
@@ -524,6 +637,17 @@
                     </form>
                 </div>
             </div>
+            <div class="row animate-box">
+                <div class="col-md-8 col-md-offset-2 text-center">
+                    <div style="color: white; text-align: center; padding: 20px; background: rgba(0, 0, 0, 0.6); border-radius: 10px;">
+                        <p class="secondary-font" style="font-size: 1.2rem;">
+                            <strong>
+                                Amamos a los pequeños, pero esta vez queremos que los papás se relajen y disfruten. Por lo que el evento es solo para adultos. Con mucho cariño, te pedimos entiendas que es un evento sin niños.
+                            </strong>
+                        </p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -544,11 +668,11 @@
 
                         <?php
 
-                        for ($i = 1; $i <= 9; $i++) {
+                        for ($i = 1; $i <= 8; $i++) {
 
                         ?>
-                            <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/valeria-javier/galeria/<?php echo $i ?>.jpg); ">
-                                <a target="_blank" href="images/valeria-javier/galeria/<?php echo $i ?>.jpg">
+                            <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/fany-y-paul/galeria/<?php echo $i ?>.jpg); ">
+                                <a target="_blank" href="images/fany-y-paul/galeria/<?php echo $i ?>.jpg">
                                     <div class="case-studies-summary">
 
                                         <h2></h2>
@@ -748,7 +872,7 @@
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
-                <div class="modal-body" style="background-image:url(images/valeria-javier/lugar.png);  background-position: center; background-repeat: no-repeat; min-height: 90vh;">
+                <div class="modal-body" style="background-image:url(images/Fany-Paul/lugar.png);  background-position: center; background-repeat: no-repeat; min-height: 90vh;">
                 </div>
             </div>
         </div>
