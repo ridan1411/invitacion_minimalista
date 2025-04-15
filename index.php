@@ -52,7 +52,7 @@
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
 
     <!-- Theme style  -->
-    <link rel="stylesheet" href="css/style.css?v=1.1.1">
+    <link rel="stylesheet" href="css/style.css?v=1.2.1">
 
     <!-- Modernizr JS -->
     <script src="js/modernizr-2.6.2.min.js"></script>
@@ -685,8 +685,8 @@
     <script src="js/magnific-popup-options.js"></script>
 
     <!-- // <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"></script> -->
-    <script src="js/simplyCountdown.min.js?v=2.0.0"></script>
-    <script src="js/simplyCountdown.js?v=2.0.0"></script>
+    <script src="js/simplyCountdown.min.js?v=2.1.0"></script>
+    <script src="js/simplyCountdown.js?v=2.1.0"></script>
     <!-- Main -->
     <script src="js/main.js?v=2.0.0"></script>
 
