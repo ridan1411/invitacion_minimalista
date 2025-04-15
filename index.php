@@ -117,7 +117,7 @@
     </header>
 
     <div class="primary-font mt-3 text-center" style="padding: 20px;">
-        <p>
+        <p class="animate-box">
             Con el corazón lleno de amor y gratitud,
             te invitamos a ser testigo del inicio de nuestra nueva historia juntos.
             Acompáñanos a celebrar el día en que un “sí” se convierte en “para siempre”.</p>
