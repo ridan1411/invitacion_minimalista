@@ -843,10 +843,10 @@
     <script src="js/magnific-popup-options.js"></script>
 
     <!-- // <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"></script> -->
-    <script src="js/simplyCountdown.min.js"></script>
-    <script src="js/simplyCountdown.js"></script>
+    <script src="js/simplyCountdown.min.js?v=1.1.1"></script>
+    <script src="js/simplyCountdown.js?v=1.1.1"></script>
     <!-- Main -->
-    <script src="js/main.js?v=3.0.0"></script>
+    <script src="js/main.js?v=1.1.1"></script>
 
     <!-- Modal Paroquia Img-->
     <div class="modal fade" id="parroquiaimg" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
