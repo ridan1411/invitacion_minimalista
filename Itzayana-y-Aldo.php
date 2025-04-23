@@ -58,17 +58,17 @@
 </head>
 
 <style>
-.card-title {
-    margin: 0 auto;
-}
+    .card-title {
+        margin: 0 auto;
+    }
 
-.f11 {
-    font-size: 13px;
-}
+    .f11 {
+        font-size: 13px;
+    }
 
-header#fh5co-header {
-    background-position: center !important;
-}
+    header#fh5co-header {
+        background-position: center !important;
+    }
 </style>
 
 <body>
@@ -76,50 +76,48 @@ header#fh5co-header {
     <div class="fh5co-loader"></div>
 
     <div id="page">
-        <!-- <nav class="fh5co-nav" role="navigation">
+        <nav class="fh5co-nav" role="navigation">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-9 col-lg-9 col-xs-2 text-right menu-1">
-                        <ul>
-                            <li class="active"><a class="f11" href="index.php"></a></li> -->
-                            <!--li><a class="f11" href="#">Nuestra Historia</a></li-->
-                            <!--li class="has-dropdown">
-							<a class="f11" >Evento</a>
-							<ul class="dropdown">
-								<li><a class = 'f11' href="#cuandodonde">¿Cuándo? ¿Dónde?</a></li>
-								<li><a class = 'f11' href="#codigovestimenta">Código de Vestimenta</a></li>
-								<li><a class = 'f11' href="#mesaregalos">Mesa de Regalos</a></li>
-								<li><a class = 'f11' href="#hospedajerecomendado">Hospedaje Recomendado</a></li>
-								<li><a class = 'f11' href="#asistencia">Asistencia</a></li>
-							</ul>
-						    </li-->
-                            <!-- <li><a class="f11" href="galeria.php">Galería</a></li> -->
-                        <!-- </ul>
-                    </div>
+            <div class="row">
+                <div class="col-md-9 col-lg-9 col-xs-2 text-right menu-1">
+                <ul>
+                    <li class="active"><a class="f11" href="index.php"></a></li>
+                    <li--><a class="f11" href="#">Nuestra Historia</a></li>
+                    <li class="has-dropdown">
+                    <a class="f11">Evento</a>
+                    <ul class="dropdown">
+                        <li><a class='f11' href="#cuandodonde">¿Cuándo? ¿Dónde?</a></li>
+                        <li><a class='f11' href="#codigovestimenta">Código de Vestimenta</a></li>
+                        <li><a class='f11' href="#mesaregalos">Mesa de Regalos</a></li>
+                        <li><a class='f11' href="#hospedajerecomendado">Hospedaje Recomendado</a></li>
+                        <li><a class='f11' href="#asistencia">Asistencia</a></li>
+                    </ul>
+                    </li>
+                    <li><a class="f11" href="galeria.php">Galería</a></li>
+                </ul>
                 </div>
             </div>
-        </nav> -->
+            </div>
+        </nav>
         <section class="titulo mb-1">
             <div class="texto-titulo mt-1">
-            <p>Nuestros corazones están unidos desde hace muchos años y nos sentimos preparados para comenzar una vida juntos, 
-                porque ante todo creemos en nuestro amor. <br> Estamos felices de que este día por fin haya llegado y nos gustaría contar con su grata compañía.</p>
+                <p>Nuestros corazones están unidos desde hace muchos años y nos sentimos preparados para comenzar una vida juntos,
+                    porque ante todo creemos en nuestro amor. <br> Estamos felices de que este día por fin haya llegado y nos gustaría contar con su grata compañía.</p>
             </div>
         </section>
-        
+
         <header id="fh5co-header" class="fh5co-cover" role="banner" data-stellar-background-ratio="0.5">
             <div class="overlay"></div>
             <div class="container">
-                
+
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center">
                         <div class="display-t">
                             <div class="display-tc animate-box" data-animate-effect="fadeIn">
-                                <h1>Itzayana Ramírez  <br> &amp; <br> Aldo Gallegos  </h1>
+                                <h1>Itzayana Ramírez <br> &amp; <br> Aldo Gallegos </h1>
                                 <h2><strong> 23 de Diciembre de 2024 </strong></h2>
-                                <div id="cuenta" class="simply-countdown simply-countdown-one"></div><!-- aqui uno -->
-                                <!--link agenda google calendar-->
-                                <!--<p><a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=NzZjM2ljOGM5Z3V2Z2IzcGs2NGcwaW0xYWEgaW12cWczM2sya2owM3FsbzFpOTdpNzI3NzRAZw&tmsrc=imvqg33k2kj03qlo1i97i72774%40group.calendar.google.com" class="btn btn-default btn-sm">Save the date</a></p>-->
-                                <!--link agenda google calendar-->
+                                <div id="cuenta" class="simply-countdown simply-countdown-one"></div>
+                                <p><a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=NzZjM2ljOGM5Z3V2Z2IzcGs2NGcwaW0xYWEgaW12cWczM2sya2owM3FsbzFpOTdpNzI3NzRAZw&tmsrc=imvqg33k2kj03qlo1i97i72774%40group.calendar.google.com" class="btn btn-default btn-sm">Save the date</a></p>
                             </div>
                         </div>
                     </div>
@@ -128,32 +126,33 @@ header#fh5co-header {
         </header>
 
         <!-- Welcome -->
-        <div id="welcome" class="mt-3 mb-3" style="margin-top: 40px;">
-            <div class="container">
-                <div class="couple-wrap animate-box">
-                    <div class="couple-half">
-                        <div class="groom">
-                            <img src="images/itzayana-aldo/novioa01.jpg" alt="groom" class="img-responsive">
+            <div id="welcome" class="mt-3 mb-3" style="margin-top: 40px;">
+                <div class="container">
+                    <div class="couple-wrap animate-box">
+                        <div class="couple-half">
+                            <div class="groom">
+                                <img src="images/itzayana-aldo/novioa01.jpg" alt="groom" class="img-responsive">
+                            </div>
+                            <div class="desc-groom">
+                                <h3 style="margin-bottom: 0px;">Itzayana</h3>
+                                <p>"Amo tu valentía, tu determinación, lo que arriesgas por mí cada día y el amor que me demuestras"</p>
+                            </div>
                         </div>
-                        <div class="desc-groom">
-                            <h3 style="margin-bottom: 0px;">Itzayana</h3>
-                            <p>"Amo tu valentía, tu determinación, lo que arriesgas por mí cada día y el amor que me demuestras"</p>
-                        </div>
-                    </div>
-                    <p class="heart text-center"><i class="icon-heart2"></i></p>
-                    <div class="couple-half">
-                        <div class="bride">
-                            <img src="images/itzayana-aldo/novio01.jpg" alt="groom" class="img-responsive">
-                        </div>
-                        <div class="desc-bride">
-                            <h3 style="margin-bottom: 0px;">Aldo </h3>
-                            <p> "Eres tú y nadie más, Tú, con quien quiero reír, caer y caminar en esta vida" </p>
+                        <p class="heart text-center"><i class="icon-heart2"></i></p>
+                        <div class="couple-half">
+                            <div class="bride">
+                                <img src="images/itzayana-aldo/novio01.jpg" alt="groom" class="img-responsive">
+                            </div>
+                            <div class="desc-bride">
+                                <h3 style="margin-bottom: 0px;">Aldo </h3>
+                                <p> "Eres tú y nadie más, Tú, con quien quiero reír, caer y caminar en esta vida" </p>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-
+        <!-- Welcome -->
+         
         <!-- Evento -->
         <div id="fh5co-event" class="fh5co-bg"
             style="background-image:url(images/img_bg_1.jpg); background-size: cover; background-size: cover;background-position: center; background-repeat: no-repeat; padding: 2em 0; z-index: 100;">
@@ -177,7 +176,7 @@ header#fh5co-header {
                                             <i class="icon-location" style="color:#819269;"></i>
                                         </div>
                                         <div>
-                                            <p style="color:black;  margin-bottom: 0px;">Templo de San José de gracia 
+                                            <p style="color:black;  margin-bottom: 0px;">Templo de San José de gracia
                                             </p>
                                             <p style="color:black;">59500, San José de Gracia, Mich.</p>
                                             <br>
@@ -236,44 +235,44 @@ header#fh5co-header {
         <!-- Papas y Padrinos-->
 
         <div id="fathers" class="fh5co-section-gray" style="margin-top: .2rem;">
-                <div class="container" style="margin-bottom: 22px;">
-                    <div class="row">
-                        <div class="col-md-8 col-md-offset-2 text-center animate-box fadeInUp animated-fast"
-                            style="margin-bottom: -30px;">
-                            <br><br>
-                            <p id="margin-none" class="mt-5 mb-1">&nbsp;</p>
-                            <h2 class="d_title" style="font-size: 26px;">Nos Acompañan
-                            </h2>
+            <div class="container" style="margin-bottom: 22px;">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 text-center animate-box fadeInUp animated-fast"
+                        style="margin-bottom: -30px;">
+                        <br><br>
+                        <p id="margin-none" class="mt-5 mb-1">&nbsp;</p>
+                        <h2 class="d_title" style="font-size: 26px;">Nos Acompañan
+                        </h2>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="row">
+                    <div class="row animate-box">
+                        <div class="col-md-8 col-md-offset-2 text-center">
+                            <p class="mb-2" style="font-size: 18px;"><strong>Madre y Padre de la Novia</strong></p>
                         </div>
                     </div>
                 </div>
-           
-            <div class="container">
-                            <div class="row">
-                                <div class="row animate-box">
-                                    <div class="col-md-8 col-md-offset-2 text-center">
-                                        <p class="mb-2" style="font-size: 18px;"><strong>Madre y Padre de la Novia</strong></p>
-                                    </div>
-                                </div>
-                            </div>
                 <div class="row animate-box card-wrap" style="margin-left: 5px; margin-right: 5px;">
                     <div class="card mb-2 me-1">
-                            <div class="text-center">
-                                <div class="card-body">
-                                    <h4 class="card-title"> Maria beronica Martínez Lomelí </h4>
-                                </div>
+                        <div class="text-center">
+                            <div class="card-body">
+                                <h4 class="card-title"> Maria beronica Martínez Lomelí </h4>
                             </div>
+                        </div>
                     </div>
-                            <div class="card mb-2 ms-1">
-                                <div class="text-center">
-                                    <div class="card-body">
-                                        <h4 class="card-title"> Juan Carlos Ramírez Torres </h4>
-                                    </div>
-                                </div>
+                    <div class="card mb-2 ms-1">
+                        <div class="text-center">
+                            <div class="card-body">
+                                <h4 class="card-title"> Juan Carlos Ramírez Torres </h4>
                             </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-           
+
             <div class="container mb-3">
                 <div class="row">
                     <div class="row animate-box">
@@ -290,7 +289,7 @@ header#fh5co-header {
                             </div>
                         </div>
                     </div>
-                    <div class="card mb-3 ms-1" >
+                    <div class="card mb-3 ms-1">
                         <div class="text-center">
                             <div class="card-body">
                                 <h4 class="card-title"> Salvador Alberto Gómez Villanueva </h4>
@@ -301,28 +300,28 @@ header#fh5co-header {
             </div>
 
             <div class="container mb-5">
-                            <div class="row">
-                                <div class="row animate-box ">
-                                    <div class="col-md-8 col-md-offset-2 text-center">
-                                        <p class="mb-2" style="font-size: 18px;"><strong>Padrinos de Velación</strong></p>
-                                    </div>
-                                </div>
-                            </div>
+                <div class="row">
+                    <div class="row animate-box ">
+                        <div class="col-md-8 col-md-offset-2 text-center">
+                            <p class="mb-2" style="font-size: 18px;"><strong>Padrinos de Velación</strong></p>
+                        </div>
+                    </div>
+                </div>
                 <div class="row animate-box card-wrap" style="margin-left: 5px; margin-right: 5px;">
                     <div class="card mb-3 me-1">
-                            <div class="text-center">
-                                <div class="card-body">
-                                    <h4 class="card-title"> Maria Cecilia Martinez Lomelí  </h4>
-                                </div>
+                        <div class="text-center">
+                            <div class="card-body">
+                                <h4 class="card-title"> Maria Cecilia Martinez Lomelí </h4>
                             </div>
+                        </div>
                     </div>
-                            <div class="card mb-3 ms-1">
-                                <div class="text-center">
-                                    <div class="card-body">
-                                        <h4 class="card-title"> Martin Contreras  </h4>
-                                    </div>
-                                </div>
+                    <div class="card mb-3 ms-1">
+                        <div class="text-center">
+                            <div class="card-body">
+                                <h4 class="card-title"> Martin Contreras </h4>
                             </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -390,7 +389,7 @@ header#fh5co-header {
 
             <div class="row animate-box">
                 <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style='margin-bottom: 5px;'>
-                <h2 class="d_title" style="color: #819269 !important;">Código de Vestimenta</h2>
+                    <h2 class="d_title" style="color: #819269 !important;">Código de Vestimenta</h2>
                 </div>
             </div>
 
@@ -457,7 +456,7 @@ header#fh5co-header {
         <div id="asistencia" class="container">
             <div class="row animate-box">
                 <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                    
+
                     <p style="color: white; margin-top: 20px;">Estamos emocionados de celebrar nuestro día especial y nos encantaría contar con su presencia.</p>
                     <p><strong>
                             <h6 style="color:white;">Confirma tu asistencia antes del 9 de Diciembre 2024.</h6>
@@ -503,14 +502,14 @@ header#fh5co-header {
                 <div class="col-md-12">
                     <ul id="fh5co-gallery-list">
 
-                        <?php  
+                        <?php
 
-							for($i=1; $i<=6; $i++){
-								
-								?>
+                        for ($i = 1; $i <= 6; $i++) {
+
+                        ?>
                         <li class="one-third animate-box" data-animate-effect="fadeIn"
-                            style="background-image: url(images/galeria/<?php echo $i?>.jpg); ">
-                            <a target="_blank" href="images/galeria/<?php echo $i?>.jpg">
+                            style="background-image: url(images/galeria/<?php echo $i ?>.jpg); ">
+                            <a target="_blank" href="images/galeria/<?php echo $i ?>.jpg">
                                 <div class="case-studies-summary">
 
                                     <h2></h2>
@@ -519,9 +518,9 @@ header#fh5co-header {
                         </li>
                         <?php
 
-							}//for
+                        } //for
 
-						?>
+                        ?>
 
                     </ul>
                 </div>
@@ -683,4 +682,5 @@ header#fh5co-header {
         </div>
     </div>
 </body>
+
 </html>
