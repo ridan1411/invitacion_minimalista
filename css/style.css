@@ -33,7 +33,7 @@ body {
   font-size: 16px;
   line-height: 1.7;
   color: #000;
-  background: #fffaed;
+  background: #f7f4dd;
 }
 
 strong {
@@ -501,7 +501,7 @@ figure {
 }
 
 .fh5co-cover {
-  background-image: url(../images/valeria-javier/principal.jpg);
+  background-image: url(../images/main_images/principal.jpeg);
   height: 100vh;
 }
 
@@ -1234,7 +1234,7 @@ form label {
 #fh5co-counter .display-tc .btn,
 .fh5co-cover .display-tc .btn {
   padding: 15px 20px;
-  background: #fff !important;
+  background: #f7f4dd !important;
   /*color: #173b15;*/
   color: #5b7c62;
   border: none !important;
@@ -1245,7 +1245,7 @@ form label {
 #fh5co-header .display-tc .btn:hover,
 #fh5co-counter .display-tc .btn:hover,
 .fh5co-cover .display-tc .btn:hover {
-  background: #fff !important;
+  background: #f7f4dd !important;
   -webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   -moz-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
@@ -1615,7 +1615,7 @@ form label {
 }
 
 #fh5co-testimonial {
-  background-color: rgba(218, 215, 210, 1);
+  background-color: rgb(255, 255, 255);
 }
 
 #fh5co-testimonial .wrap-testimony {
@@ -1822,8 +1822,8 @@ form label {
 #fh5co-mesa-regalos .btn {
   height: 54px;
   border: none !important;
-  background: #5b7c62 !important;
-  color: #fff;
+  background: #f7f4dd !important;
+  color: #9fba68;
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 400;
@@ -2379,11 +2379,11 @@ form label {
 /*Main*/
 #fh5co-counter .event-wrap,
 #fh5co-event .event-wrap {
-  background: rgb(218, 215, 210, 0.9);
+  background: rgb(255, 255, 255);
 }
 
 #fh5co-offcanvas a {
-  color: rgb(255 255 255);
+  color: rgb(255, 255, 255);
 }
 
 .simply-seconds-section {
@@ -2549,7 +2549,7 @@ color: #000;
 }
 
 #fh5co-gallery {
-  background-color: rgba(218, 215, 210, 1);
+  background-color: rgb(255, 255, 255);
 }
 
 #margin-none {
