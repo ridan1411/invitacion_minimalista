@@ -246,15 +246,12 @@
 			//El buenas//
 			// window.open('https://api.whatsapp.com/send?phone=5213317025046&text=Me%20interesa%20una%20invitación%20virtual');
 			//window.location.href("mailto:lozaniaevent@gmail.com?subject=Asunto%20con%20espacios&body=Este%20es%20el%20cuerpo%20del%20mensaje");
-			window.location.assign("mailto:lozaniaevent@gmail.com?subject=Confirmación%20de%20asistencia%20a%20la%20boda%20de%20Diana%20y%20Alejandro&body=Nombre%20de%20los%20invitados:%20"+name+"%0dBoda:%20Diana%20y%20Alejandro%0dFecha:%2007/Febrero/2026");
+			window.location.assign("mailto:lozaniaevent@gmail.com?subject=Confirmación%20de%20asistencia%20a%20la%20boda%20de%20Mariela%20y%20Carlos&body=Nombre%20de%20los%20invitados:%20"+name+"%0dBoda:%20Mariela%20y%20Carlos%0dFecha:%2015/mayo/2026");
 		}
 
 			
 
 	});
-
-
-
 
 	/*Intro Heart*/
 

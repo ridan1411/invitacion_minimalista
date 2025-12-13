@@ -33,7 +33,7 @@ body {
   font-size: 16px;
   line-height: 1.7;
   color: #000;
-  background: #f7f4dd;
+  background: #ecebe1;
 }
 
 strong {
@@ -1234,7 +1234,7 @@ form label {
 #fh5co-counter .display-tc .btn,
 .fh5co-cover .display-tc .btn {
   padding: 15px 20px;
-  background: #f7f4dd !important;
+  background: #ecebe1 !important;
   /*color: #173b15;*/
   color: #5b7c62;
   border: none !important;
@@ -1245,7 +1245,7 @@ form label {
 #fh5co-header .display-tc .btn:hover,
 #fh5co-counter .display-tc .btn:hover,
 .fh5co-cover .display-tc .btn:hover {
-  background: #f7f4dd !important;
+  background: #ecebe1 !important;
   -webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   -moz-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
@@ -1822,7 +1822,7 @@ form label {
 #fh5co-mesa-regalos .btn {
   height: 54px;
   border: none !important;
-  background: #f7f4dd !important;
+  background: #ecebe1 !important;
   color: #9fba68;
   font-size: 16px;
   text-transform: uppercase;
