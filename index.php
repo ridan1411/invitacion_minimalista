@@ -402,7 +402,7 @@
     </div>
 
     <!-- Mesa de Regalos -->
-    <div id="fh5co-testimonial" class="" style="margin-bottom: 30px;">
+    <!-- <div id="fh5co-testimonial" class="" style="margin-bottom: 30px;">
         <div id="mesaregalos" class="container">
             <div class="row animate-box">
                 <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style="margin-bottom: 0px;">
@@ -411,7 +411,7 @@
             </div>
             <div class="wrap-gift">
                 <div class="container">
-                    <div class="row">
+                    <div class="row"> -->
 
                         <!-- <div class="card-gift mt-3 text-center animate-box mr-gift">
                                 <div class="card">
@@ -444,23 +444,23 @@
                                 </div>
                             </div> -->
 
-                        <div class="card-gift mt-3 text-center animate-box mr-gift">
+                        <!-- <div class="card-gift mt-3 text-center animate-box mr-gift">
                             <div class="card">
-                                <div>
+                                <div> -->
                                     <!-- <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-box2-heart" viewBox="0 0 16 16">
                                     <path d="M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982"/>
                                     <path d="M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z"/>
                                     </svg> -->
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-gift-fill" viewBox="0 0 16 16">
+                                    <!-- <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-gift-fill" viewBox="0 0 16 16">
                                     <path d="M3 2.5a2.5 2.5 0 0 1 5 0 2.5 2.5 0 0 1 5 0v.006c0 .07 0 .27-.038.494H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h2.038A3 3 0 0 1 3 2.506zm1.068.5H7v-.5a1.5 1.5 0 1 0-3 0c0 .085.002.274.045.43zM9 3h2.932l.023-.07c.043-.156.045-.345.045-.43a1.5 1.5 0 0 0-3 0zm6 4v7.5a1.5 1.5 0 0 1-1.5 1.5H9V7zM2.5 16A1.5 1.5 0 0 1 1 14.5V7h6v9z"/>
                                     </svg>
                                 </div>
                                 <div class="card-body" style="margin-top: 10px;">
                                     <h5 class="card-title">“Gracias por su generosa contribución a nuestro comienzo juntos.”</h5>
                                     <h4 class="card-text mt-5">CLABE: 012 180 01522221281 2</h4>
-                                    <h5 class="card-title ">Titular: Diana Yael García Rivera</h5>
+                                    <h5 class="card-title ">Titular: Diana Yael García Rivera</h5> -->
                                     <!-- <a target="_blank" href="#" class="btn btn-primary" style="background: #b78e24; border-color: #b78e24; height: 40px;">Regalar</a> -->
-                                </div>
+                                <!-- </div>
                             </div>
                         </div>
 
@@ -469,7 +469,7 @@
 
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Aviso -->
     <div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/galeria/1.jpeg);">
