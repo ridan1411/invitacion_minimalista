@@ -11,6 +11,11 @@
     <meta name="keywords" content="nombre sitio" />
     <meta name="author" content="" />
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+
     <!-- Facebook and Twitter integration -->
     <meta property="og:title" content="" />
     <meta property="og:image" content="" />
@@ -78,7 +83,7 @@
                     <div class="col-md-8 col-md-offset-2 text-center">
                         <div class="display-t">
                             <div class="display-tc animate-box " data-animate-effect="fadeIn">
-                                <h1>Mariela<br> &amp; <br> Carlos</h1>
+                                <h1 style="font-family: Dancing Script, cursive;">Mariela<br> &amp; <br> Carlos</h1>
                                 <h2><strong> 15 Mayo, 2026 </strong></h2>
                                 <div id="cuenta" class="simply-countdown simply-countdown-one"></div><!-- aqui uno -->
                                 <!--link agenda google calendar-->
@@ -94,7 +99,7 @@
     </div>
     </header>
 
-    <div class="texto-titulo mt-1" style="padding: 10px;">
+    <div class="texto-titulo mt-1" style="padding: 10px; font-family: Oswald, sans-serif;">
         <p>"Nos encontramos, nos elegimos y hoy queremos compartir con ustedes nuestra felicidad."</p>
         <p>Después de 4 años de amor,felicidad y logros , llegó nuestro momento ¡++</p>
     </div>
@@ -169,7 +174,7 @@
                             <div class="col-md-12 col-sm-12 text-center">
                                 <div class="event-wrap animate-box" style="padding: 25px;">
                                     <span><i style="color: #9fba68;;" class="fas fa-glass-cheers fa-3x"></i></span>
-                                    <h3 style="color:black; padding-bottom: 0px !important;">Evento</h3>
+                                    <h3 style="color:black; padding-bottom: 0px !important; font-family: Dancing Script, cursive;">Evento</h3>
                                     <div class="event-col">
                                         <p style="color:black; margin-bottom: 0px;"> Viernes, 15 de Mayo de 2026
                                         </p>
@@ -179,8 +184,8 @@
                                         <i class="icon-location" style="color:#9fba68;"></i>
                                     </div>
                                     <div>
-                                        <p style="color:black;  margin-bottom: 0px;">Hacienda la Bendita</p>
-                                        <p style="color:black;">Camino al Montecito y Alcatraces s/n, La Cofradia, 49500, 49500 Mazamitla, Jal.</p>
+                                        <p style="color:black;  margin-bottom: 0px; font-family: Oswald, sans-serif;">Hacienda la Bendita</p>
+                                        <p style="color:black; font-family: Oswald, sans-serif;">Camino al Montecito y Alcatraces s/n, La Cofradia, 49500, 49500 Mazamitla, Jal.</p>
                                     </div>
                                     <div>
                                         <strong>
@@ -211,7 +216,7 @@
                     style="margin-bottom: -30px;">
                     <br><br>
                     <p id="margin-none" class="mt-5 mb-1">&nbsp;</p>
-                    <h2 class="d_title" style="font-size: 26px;">Nos Acompañan
+                    <h2 class="d_title" style="font-size: 26px; font-family: Dancing Script, cursive;">Nos Acompañan
                     </h2>
                 </div>
             </div>
@@ -223,7 +228,7 @@
             <div class="row">
                 <div class="row animate-box">
                     <div class="col-md-8 col-md-offset-2 text-center">
-                        <p class="mb-2" style="font-size: 18px;"><strong>Madre y Padre de la Novia</strong></p>
+                        <p class="mb-2" style="font-size: 18px; font-family: Dancing Script, cursive;"><strong>Madre y Padre de la Novia</strong></p>
                     </div>
                 </div>
             </div>
@@ -231,14 +236,14 @@
                 <div class="card mb-2 me-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title"> Josefina Rubio Zatarain </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Josefina Rubio Zatarain </h4>
                         </div>
                     </div>
                 </div>
                 <div class="card mb-2 ms-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title"> Roberto Rogelio Valdez </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Roberto Rogelio Valdez </h4>
                         </div>
                     </div>
                 </div>
@@ -251,7 +256,7 @@
             <div class="row">
                 <div class="row animate-box">
                     <div class="col-md-8 col-md-offset-2 text-center">
-                        <p class="mb-2" style="font-size: 18px;"><strong>Madre y Padre del Novio</strong></p>
+                        <p class="mb-2" style="font-size: 18px; font-family: Dancing Script, cursive;"><strong>Madre y Padre del Novio</strong></p>
                     </div>
                 </div>
             </div>
@@ -259,14 +264,14 @@
                 <div class="card mb-3 me-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title"> Guadalupe Rojo Rojo </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Guadalupe Rojo Rojo </h4>
                         </div>
                     </div>
                 </div>
                 <div class="card mb-3 ms-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title"> Ramón Vázquez González </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Ramón Vázquez González </h4>
                         </div>
                     </div>
                 </div>
@@ -279,7 +284,7 @@
             <div class="row">
                 <div class="row animate-box ">
                     <div class="col-md-8 col-md-offset-2 text-center">
-                        <p class="mb-2" style="font-size: 18px;"><strong>Padrinos de la Novia</strong></p>
+                        <p class="mb-2" style="font-size: 18px; font-family: Dancing Script, cursive;"><strong>Padrinos de la Novia</strong></p>
                     </div>
                 </div>
             </div>
@@ -287,14 +292,14 @@
                 <div class="card mb-3 me-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title"> Marla Valdez Rubio </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Marla Valdez Rubio </h4>
                         </div>
                     </div>
                 </div>
                 <div class="card mb-3 ms-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title"> Juan Francisco limon Mendoza </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Juan Francisco limon Mendoza </h4>
                         </div>
                     </div>
                 </div>
@@ -305,7 +310,7 @@
             <div class="row">
                 <div class="row animate-box ">
                     <div class="col-md-8 col-md-offset-2 text-center">
-                        <p class="mb-2" style="font-size: 18px;"><strong>Padrinos del Novio</strong></p>
+                        <p class="mb-2" style="font-size: 18px; font-family: Dancing Script, cursive;"><strong>Padrinos del Novio</strong></p>
                     </div>
                 </div>
             </div>
@@ -313,14 +318,14 @@
                 <div class="card mb-3 me-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title"> Evelyn del Carmen Pineda </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Evelyn del Carmen Pineda </h4>
                         </div>
                     </div>
                 </div>
                 <div class="card mb-3 ms-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title"> Rafael Benjamin Martínez rojo </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Rafael Benjamin Martínez rojo </h4>
                         </div>
                     </div>
                 </div>
@@ -340,8 +345,8 @@
                 <div class="animate-box">
                     <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style="margin-bottom: 0px !important;">
                         <span>Estadía</span>
-                        <h2 class="d_title" style="color: #9fba68 !important; font-size:2.5rem !important">Hospedaje Recomendado</h2>
-                        <h5 class="sub-titulo-hotel">¡Mazamitla cuenta con hospedajes de todos los tamaños y para todos los presupuestos!</h5>
+                        <h2 class="d_title" style="color: #9fba68 !important; font-size:2.5rem !important; font-family: Dancing Script, cursive;">Hospedaje Recomendado</h2>
+                        <h5 class="sub-titulo-hotel" style="font-family: Oswald, sans-serif;">¡Mazamitla cuenta con hospedajes de todos los tamaños y para todos los presupuestos!</h5>
                     </div>
                 </div>
 
@@ -356,7 +361,7 @@
                                             <img src="images/bosque_escondido.png" alt="Portozul Hotel & Suites">
                                         </figure>
                                     </a>
-                                    <span style="color:#9fba68;">Hotel Bosque Escondido<a target="_blank" href="https://maps.app.goo.gl/MHVKiu85fuwWSRJeA" class="twitter"><br>Vista Nevada #100, Fracc. Pueblo Bonito. 49500 - Mazamitla, Jalisco</a></span>
+                                    <span style="color:#9fba68; font-family: Oswald, sans-serif;">Hotel Bosque Escondido<a target="_blank" href="https://maps.app.goo.gl/MHVKiu85fuwWSRJeA" class="twitter"><br>Vista Nevada #100, Fracc. Pueblo Bonito. 49500 - Mazamitla, Jalisco</a></span>
                                     <a target="_blank" style="color: #9fba68;" href="https://maps.app.goo.gl/MHVKiu85fuwWSRJeA" class="twitter">Mapa</a>
                                 </div>
                             </div>
@@ -368,7 +373,7 @@
                                             <img src="images/hotel_la_troje.jpg" alt="user">
                                         </figure>
                                     </a>
-                                    <span>Hotel La Troje<a target="_blank" href="https://maps.app.goo.gl/QLF5BrQejgtMMGBp8" class="twitter"><br>
+                                    <span style="font-family: Oswald, sans-serif;">Hotel La Troje<a target="_blank" href="https://maps.app.goo.gl/QLF5BrQejgtMMGBp8" class="twitter"><br>
                                             Galeana 53, El Charco, 49500 Mazamitla, Jal..</a></span>
                                     <a target="_blank" style="color: #9fba68;" href="https://maps.app.goo.gl/QLF5BrQejgtMMGBp8" class="twitter">Mapa</a>
                                 </div>
@@ -381,7 +386,7 @@
                                             <img src="images/lenador_mazamitla.png" alt="Portozul Hotel & Suites">
                                         </figure>
                                     </a>
-                                    <span>Hotel Leñador Mazamitla <a target="_blank" href="https://maps.app.goo.gl/xX4xPrnFCGLEdtjJA" class="twitter"><br>Netzahualcóyotl 4, La Gloria, 49500 Mazamitla, Jal.</a></span>
+                                    <span style="font-family: Oswald, sans-serif;">Hotel Leñador Mazamitla <a target="_blank" href="https://maps.app.goo.gl/xX4xPrnFCGLEdtjJA" class="twitter"><br>Netzahualcóyotl 4, La Gloria, 49500 Mazamitla, Jal.</a></span>
                                     <a target="_blank" style="color: #9fba68;" href="https://maps.app.goo.gl/xX4xPrnFCGLEdtjJA" class="twitter">Mapa</a>
                                 </div>
                             </div>
@@ -402,7 +407,7 @@
 
             <div class="row animate-box">
                 <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style='margin-bottom: 5px;'>
-                    <h2 class="d_title" style="color: #9fba68 !important; font-size:2.5rem !important;">Código de Vestimenta</h2>
+                    <h2 class="d_title" style="color: #9fba68 !important; font-size:2.5rem !important; font-family: Dancing Script, cursive;">Código de Vestimenta</h2>
                 </div>
             </div>
 
@@ -410,8 +415,8 @@
                 <div class="animate-box text-center">
                     <div class="col-md-12">
                         <div>
-                            <h4>Riguroso formal… y Amazing!</h4>
-                            <p>Es nuestro día especial y queremos que luzcas espectacular , hombres de traje y mujeres de largo , reserva el blanco y paleta de colores similar (beige,ivory ) para la novia </p>
+                            <h4 style="font-family: Oswald, sans-serif;">Riguroso formal… y Amazing!</h4>
+                            <p style="font-family: Oswald, sans-serif;">Es nuestro día especial y queremos que luzcas espectacular , hombres de traje y mujeres de largo , reserva el blanco y paleta de colores similar (beige,ivory ) para la novia </p>
                         </div>
                     </div>
                 </div>
@@ -434,7 +439,7 @@
         <div id="mesaregalos" class="container">
             <div class="row animate-box">
                 <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style="margin-bottom: 0px;">
-                    <h2 style="color: #9fba68 !important; font-size:2.5rem !important">Mesa de Regalos</h2>
+                    <h2 style="color: #9fba68 !important; font-size:2.5rem !important; font-family: Dancing Script, cursive;">Mesa de Regalos</h2>
                 </div>
             </div>
             <div class="wrap-gift">
@@ -483,9 +488,9 @@
                                     </svg> -->
                                 </div>
                                 <div class="card-body" style="margin-top: 10px;">
-                                    <h5 class="card-title">Sin ti esto no sería igual .gracias por tu compañía en esta nueva etapa ,que comenzamos . El regalo es opcional ,la asistencia es obligatoria.Pero si quieres tener un detalle con nosotros, suma kilómetros a nuestro viaje ¡</h5>
-                                    <h4 class="card-text mt-5">Cuenta: 012 374 015969185966</h4>
-                                    <h5 class="card-title ">Titular: Mariela Valdez Rubio BBVA</h5>
+                                    <h5 class="card-title" style="font-family: Oswald, sans-serif;">Sin ti esto no sería igual .gracias por tu compañía en esta nueva etapa ,que comenzamos . El regalo es opcional ,la asistencia es obligatoria.Pero si quieres tener un detalle con nosotros, suma kilómetros a nuestro viaje ¡</h5>
+                                    <h4 class="card-text mt-5" style="font-family: Oswald, sans-serif;">Cuenta: 012 374 015969185966</h4>
+                                    <h5 class="card-title " style="font-family: Oswald, sans-serif;">Titular: Mariela Valdez Rubio BBVA</h5>
                                     <!-- <a target="_blank" href="#" class="btn btn-primary" style="background: #b78e24; border-color: #b78e24; height: 40px;">Regalar</a> -->
                                 </div>
                             </div>
@@ -507,7 +512,7 @@
 
                     <!-- <p style="color: white; margin-top: 20px;">Estamos emocionados de celebrar nuestro día especial y nos encantaría contar con su presencia.</p> -->
                     <p><strong>
-                            <h6 style="color:white;">¿Vas a ser parte de nuestra historia de amor? Confirma tu asistencia</h6>
+                            <h4 style="color:white; font-family: Oswald, sans-serif;">¿Vas a ser parte de nuestra historia de amor? Confirma tu asistencia</h4>
                         </strong></p>
                 </div>
             </div>
@@ -517,7 +522,7 @@
                         <div class="col-md-8 col-sm-8">
                             <div id="inpName" class="form-group">
                                 <label for="name" class="sr-only">Nombre</label>
-                                <input name="name" type="name" class="form-control" id="name" placeholder="Escribe tu nombre aquí y el de tus acompañantes.">
+                                <input style="font-family: Oswald, sans-serif;" name="name" type="name" class="form-control" id="name" placeholder="Escribe tu nombre aquí y el de tus acompañantes.">
                             </div>
                         </div>
                         <!--div class="col-md-3 col-sm-3">
@@ -542,9 +547,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center animate-box">
-                    <span>Nuestros Recuerdos</span>
-                    <h2 class="d_title">Galería</h2>
-                    <p>Compartimos con gente especial una parte de nosotros.</p>
+                    <span style="font-family: Oswald, sans-serif;">Nuestros Recuerdos</span>
+                    <h2 class="d_title" style="font-family: Dancing Script, cursive;">Galería</h2>
+                    <p style="font-family: Oswald, sans-serif;">Compartimos con gente especial una parte de nosotros.</p>
                 </div>
             </div>
             <div class="row row-bottom-padded-md">
