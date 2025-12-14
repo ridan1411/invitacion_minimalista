@@ -70,6 +70,34 @@
 
 </head>
 
+    <style>
+        .music-btn {
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            background: #adaaa0; /* dorado elegante */
+            color: #fff;
+            border: none;
+            font-size: 28px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 6px 15px rgba(0,0,0,0.25);
+            transition: all 0.3s ease;
+        }
+
+        .music-btn:hover {
+            transform: scale(1.05);
+            background: #adaaa0;
+        }
+
+        .music-container {
+            text-align: center;
+            margin-top: 40px;
+        }
+    </style>
+
+
 <body>
 
     <div class="fh5co-loader"></div>
@@ -87,6 +115,20 @@
                                 <h2><strong> 15 Mayo, 2026 </strong></h2>
                                 <div id="cuenta" class="simply-countdown simply-countdown-one"></div><!-- aqui uno -->
                                 <!--link agenda google calendar-->
+                                
+                                <div class="container" style="display: flex; justify-content:center;">
+                                    <div class="music-container">
+                                        <button id="playBtn" class="music-btn">
+                                            <i id="icon" class="fas fa-play"></i>
+                                        </button>
+
+                                        <!-- Audio -->
+                                        <audio id="weddingSong">
+                                            <source src="audio/ed_Sheeran_Photograph.mp3" type="audio/mpeg">
+                                            Tu navegador no soporta audio HTML5.
+                                        </audio>
+                                    </div>
+                                </div>
 
                                 <!-- <p><a target="_blank" href="https://calendar.app.google/S3p4oiV33gnEuTGA7" class="btn btn-default btn-sm">Save the date</a></p> -->
 
@@ -737,6 +779,25 @@
     <script src="js/simplyCountdown.js?v=5.1.1"></script>
     <!-- Main -->
     <script src="js/main.js?v=5.1.1"></script>
+
+    <script>
+        const playBtn = document.getElementById('playBtn');
+        const icon = document.getElementById('icon');
+        const audio = document.getElementById('weddingSong');
+
+        playBtn.addEventListener('click', function () {
+            if (audio.paused) {
+                audio.play();
+                icon.classList.remove('fa-play');
+                icon.classList.add('fa-pause');
+            } else {
+                audio.pause();
+                icon.classList.remove('fa-pause');
+                icon.classList.add('fa-play');
+            }
+        });
+    </script>
+
 
     <!-- Modal Paroquia Img-->
     <div class="modal fade" id="parroquiaimg" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
