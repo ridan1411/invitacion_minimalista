@@ -731,7 +731,7 @@
     <script src="js/simplyCountdown.min.js"></script>
     <script src="js/simplyCountdown.js"></script>
     <!-- Main -->
-    <script src="js/main.js?v=3.0.0"></script>
+    <script src="js/main.js?v=4.0.0"></script>
 
     <!-- Modal Paroquia Img-->
     <div class="modal fade" id="parroquiaimg" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
