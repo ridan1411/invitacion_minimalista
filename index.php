@@ -808,7 +808,7 @@
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
-                <div class="modal-body" style="background-image:url(images/Parroquia_De_San_Miguel_Arcangel.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; min-height: 50vh;">
+                <div class="modal-body" style="background-image:url(images/Parroquia_De_San_Miguel_Arcangel.jpeg); background-size: cover; background-position: center; background-repeat: no-repeat; min-height: 50vh;">
                 </div>
             </div>
         </div>
