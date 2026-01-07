@@ -181,30 +181,30 @@
                 <div class="display-t">
                     <div class="display-tc">
                         <div class="col-md-12">
-                            <!-- <div class="col-md-6 col-sm-6 text-center">
+                            <div class="col-md-6 col-sm-6 text-center">
                                 <div class="event-wrap animate-box" style="padding: 25px;">
                                     <span><i style="color: #9fba68;" class="fas fa-church fa-3x"></i></span>
                                     <h3 style="color:black; padding-bottom: 0px !important;">Ceremonia Religiosa
                                     </h3>
                                     <div class="event-col">
-                                        <p style="color:black; margin-bottom: 0px;"> Sábado, 07 de Febrero de 2026
+                                        <p style="color:black; margin-bottom: 0px;"> Viernes, 15 de Mayo de 2026
                                         </p>
-                                        <p style="color:black;"> 01:30 PM </p>
+                                        <p style="color:black;"> 04:00 PM </p>
                                     </div>
                                     <div>
                                         <i class="icon-location" style="color:#9fba68;"></i>
                                     </div>
                                     <div>
-                                        <p style="color:black;  margin-bottom: 0px;">Parroquia San Cristóbal
+                                        <p style="color:black;  margin-bottom: 0px;">Parroquia De San Miguel Arcángel
                                         </p>
-                                        <p style="color:black;">Gómez Farias 4, Centro, 49500 Mazamitla, Jal.</p>
+                                        <p style="color:black;">C. Centenario 202, 49460 La Manzanilla de la Paz, Jal., México</p>
                                         <br>
                                     </div>
                                     <div>
                                         <strong>
                                             <p style="margin-bottom: 0px;"><a style="color: #9fba68;"
                                                     target="_blank"
-                                                    href="https://maps.app.goo.gl/cs77UM1KXQrXaHcN9">Google Maps</a></p>
+                                                    href="https://maps.app.goo.gl/QPT9pkvk2wdnAUwG7">Google Maps</a></p>
                                         </strong>
                                     </div>
                                     <div>
@@ -212,7 +212,7 @@
                                                 data-target="#parroquiaimg">Foto</a></strong>
                                     </div>
                                 </div>
-                            </div> -->
+                            </div>
                             <div class="col-md-12 col-sm-12 text-center">
                                 <div class="event-wrap animate-box" style="padding: 25px;">
                                     <span><i style="color: #9fba68;;" class="fas fa-glass-cheers fa-3x"></i></span>
@@ -808,7 +808,7 @@
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
-                <div class="modal-body" style="background-image:url(images/itzayana-aldo/templo01.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; min-height: 50vh;">
+                <div class="modal-body" style="background-image:url(images/Parroquia_De_San_Miguel_Arcangel.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; min-height: 50vh;">
                 </div>
             </div>
         </div>
