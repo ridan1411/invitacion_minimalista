@@ -143,7 +143,7 @@
 
     <div class="texto-titulo mt-1" style="padding: 10px; font-family: Oswald, sans-serif;">
         <p>"Nos encontramos, nos elegimos y hoy queremos compartir con ustedes nuestra felicidad."</p>
-        <p>Después de 4 años de amor,felicidad y logros , llegó nuestro momento ¡++</p>
+        <p>Después de 4 años de amor,felicidad y logros , llegó nuestro momento¡</p>
     </div>
 
     <!-- Welcome -->
@@ -600,7 +600,7 @@
 
                         <?php
 
-                        for ($i = 1; $i <= 37; $i++) {
+                        for ($i = 1; $i <= 36; $i++) {
 
                         ?>
                             <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/galeria/<?php echo $i ?>.jpeg); ">
