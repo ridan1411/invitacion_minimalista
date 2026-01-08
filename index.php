@@ -220,7 +220,7 @@
                                     <div class="event-col">
                                         <p style="color:black; margin-bottom: 0px;"> Viernes, 15 de Mayo de 2026
                                         </p>
-                                        <p style="color:black;"> 04:00 PM </p>
+                                        <p style="color:black;"> 05:30 PM </p>
                                     </div>
                                     <div>
                                         <i class="icon-location" style="color:#9fba68;"></i>
