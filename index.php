@@ -66,9 +66,14 @@
     <link rel="stylesheet" href="css/style.css?v=5.0.0">
     <!-- Theme style  -->
 
+    <link rel="stylesheet" href="css/letter.css">
+
+
     <!-- Modernizr JS -->
     <script src="js/modernizr-2.6.2.min.js"></script>
     <!-- Modernizr JS -->
+
+
 
 </head>
 
@@ -101,8 +106,30 @@
 
 
 <body>
+                    <div id="loader_letter">
+                    <div class="container_letter">
+                        <div class="valentines_letter">
+                                                            <div class="envelope_letter"></div>
+                                                            <div class="front_letter"></div>
+                                                            <div class="card_letter">
+                                                                                            <div class="text_letter">
+                                                                                            Nuestra Boda <br>
+                                                                                            25·04·2026
+                                                                                            </div>
+                                                                                <div class="heart_letter"></div>
+                                                            </div>
 
-    <div class="fh5co-loader"></div>
+                                                            <div class="hearts_letter">
+                                                                <div class="one_letter"></div>
+                                                                <div class="two_letter"></div>
+                                                                <div class="three_letter"></div>
+                                                                <div class="four_letter"></div>
+                                                                <div class="five_letter"></div>
+                                                            </div>
+                        </div>
+                         </div>
+                    </div>
+
 
     <div id="page">
         <header id="fh5co-header" class="fh5co-cover" role="banner" data-stellar-background-ratio="0.5">
@@ -897,6 +924,10 @@
     <!-- // <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"></script> -->
     <script src="js/simplyCountdown.min.js?v=5.1.1"></script>
     <script src="js/simplyCountdown.js?v=5.1.1"></script>
+
+    <script src="js/letter.js"></script>
+
+
     <!-- Main -->
     <script src="js/main.js?v=5.1.1"></script>
 
