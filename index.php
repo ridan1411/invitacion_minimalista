@@ -464,7 +464,7 @@
                                 </div>
                             </div>
 
-                            <!-- <div class="item">
+                            <div class="item">
                                 <div class="testimony-slide active text-center">
                                     <a target="_blank" href="https://latrojedemazamitla.com.mx/">
                                         <figure>
@@ -475,7 +475,7 @@
                                             Galeana 53, El Charco, 49500 Mazamitla, Jal..</a></span>
                                     <a target="_blank" style="color: #9fba68;" href="https://maps.app.goo.gl/QLF5BrQejgtMMGBp8" class="twitter">Mapa</a>
                                 </div>
-                            </div> -->
+                            </div>
 
                             <!-- <div class="item">
                                 <div class="testimony-slide active text-center">
