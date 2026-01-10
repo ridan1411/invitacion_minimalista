@@ -118,9 +118,9 @@
                                 
                                 <div class="container" style="display: flex; justify-content:center;">
                                     <div class="music-container">
-                                        <button id="playBtn" class="music-btn">
+                                        {{-- <button id="playBtn" class="music-btn">
                                             <i id="icon" class="fas fa-play"></i>
-                                        </button>
+                                        </button> --}}
 
         
                                     </div>
@@ -190,7 +190,7 @@
                                     <h3 style="color:black; padding-bottom: 0px !important;">Ceremonia Religiosa
                                     </h3>
                                     <div class="event-col">
-                                        <p style="color:black; margin-bottom: 0px;"> Viernes, 15 de Mayo de 2026
+                                        <p style="color:black; margin-bottom: 0px;"> Sabado, 25 de Abril de 2026
                                         </p>
                                         <p style="color:black;"> 04:00 PM </p>
                                     </div>
@@ -200,14 +200,14 @@
                                     <div>
                                         <p style="color:black;  margin-bottom: 0px;">Parroquia de San Cristobal
                                         </p>
-                                        <p style="color:black;">C. Centenario 202, 49460 La Manzanilla de la Paz, Jal., México</p>
+                                        <p style="color:black;">Gómez Farias 4, Centro, 49500 Mazamitla, Jal.</p>
                                         <br>
                                     </div>
                                     <div>
                                         <strong>
                                             <p style="margin-bottom: 0px;"><a style="color: #9fba68;"
                                                     target="_blank"
-                                                    href="https://maps.app.goo.gl/QPT9pkvk2wdnAUwG7">Google Maps</a></p>
+                                                    href="https://maps.app.goo.gl/uQ96eEKGHX7mUBav5">Google Maps</a></p>
                                         </strong>
                                     </div>
                                     <div>
@@ -221,7 +221,7 @@
                                     <span><i style="color: #9fba68;;" class="fas fa-glass-cheers fa-3x"></i></span>
                                     <h3 style="color:black; padding-bottom: 0px !important; font-family: Dancing Script, cursive;">Evento</h3>
                                     <div class="event-col">
-                                        <p style="color:black; margin-bottom: 0px;"> Viernes, 15 de Mayo de 2026
+                                        <p style="color:black; margin-bottom: 0px;"> Sabado, 25 de Abril de 2026
                                         </p>
                                         <p style="color:black;"> 05:30 PM </p>
                                     </div>
@@ -229,12 +229,12 @@
                                         <i class="icon-location" style="color:#9fba68;"></i>
                                     </div>
                                     <div>
-                                        <p style="color:black;  margin-bottom: 0px; font-family: Oswald, sans-serif;">Hacienda la Bendita</p>
-                                        <p style="color:black; font-family: Oswald, sans-serif;">Camino al Montecito y Alcatraces s/n, La Cofradia, 49500, 49500 Mazamitla, Jal.</p>
+                                        <p style="color:black;  margin-bottom: 0px; font-family: Oswald, sans-serif;">Cabañas el Oso</p>
+                                        <p style="color:black; font-family: Oswald, sans-serif;">La Cofradía, Mazamitla, Jal.</p>
                                     </div>
                                     <div>
                                         <strong>
-                                            <p style="margin-bottom: 0px;"><a style="color: #9fba68;;" target="_blank" href="https://maps.app.goo.gl/ZgNnxyhMs3V37DxW7">Google Maps</a></p>
+                                            <p style="margin-bottom: 0px;"><a style="color: #9fba68;;" target="_blank" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9">Google Maps</a></p>
                                         </strong>
                                     </div>
                                     <!-- <div>
@@ -281,14 +281,14 @@
                 <div class="card mb-2 me-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Josefina Rubio Zatarain </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Elvia Martínez de Loera </h4>
                         </div>
                     </div>
                 </div>
                 <div class="card mb-2 ms-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Roberto Rogelio Valdez </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Antonio Valdivia Morales  </h4>
                         </div>
                     </div>
                 </div>
@@ -309,14 +309,14 @@
                 <div class="card mb-3 me-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Guadalupe Rojo Rojo </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Elvira Lozano Veloz </h4>
                         </div>
                     </div>
                 </div>
                 <div class="card mb-3 ms-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Ramón Vázquez González </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Abraham Esparza Ruíz</h4>
                         </div>
                     </div>
                 </div>
@@ -329,7 +329,7 @@
             <div class="row">
                 <div class="row animate-box ">
                     <div class="col-md-8 col-md-offset-2 text-center">
-                        <p class="mb-2" style="font-size: 18px; font-family: Dancing Script, cursive;"><strong>Padrinos de la Novia</strong></p>
+                        <p class="mb-2" style="font-size: 18px; font-family: Dancing Script, cursive;"><strong>Padrinos de Velacion</strong></p>
                     </div>
                 </div>
             </div>
@@ -337,14 +337,14 @@
                 <div class="card mb-3 me-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Marla Valdez Rubio </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Juana Cecilia García Gallegos </h4>
                         </div>
                     </div>
                 </div>
                 <div class="card mb-3 ms-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Juan Francisco limon Mendoza </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Antonio Vadivia Martínez</h4>
                         </div>
                     </div>
                 </div>
@@ -355,7 +355,7 @@
             <div class="row">
                 <div class="row animate-box ">
                     <div class="col-md-8 col-md-offset-2 text-center">
-                        <p class="mb-2" style="font-size: 18px; font-family: Dancing Script, cursive;"><strong>Padrinos del Novio</strong></p>
+                        <p class="mb-2" style="font-size: 18px; font-family: Dancing Script, cursive;"><strong>Padrinos de Lazo</strong></p>
                     </div>
                 </div>
             </div>
@@ -363,14 +363,66 @@
                 <div class="card mb-3 me-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Evelyn del Carmen Pineda </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Noé Romero Vázquez  </h4>
                         </div>
                     </div>
                 </div>
                 <div class="card mb-3 ms-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Rafael Benjamin Martínez rojo </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Rocío Lozano Veloz </h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container mb-5">
+            <div class="row">
+                <div class="row animate-box ">
+                    <div class="col-md-8 col-md-offset-2 text-center">
+                        <p class="mb-2" style="font-size: 18px; font-family: Dancing Script, cursive;"><strong>Padrinos de Anillos</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="row animate-box card-wrap" style="margin-left: 5px; margin-right: 5px;">
+                <div class="card mb-3 me-1">
+                    <div class="text-center">
+                        <div class="card-body">
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;">María de Jesús de Loera Vallín</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="card mb-3 ms-1">
+                    <div class="text-center">
+                        <div class="card-body">
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Diego Valdivia Martínez</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+         <div class="container mb-5">
+            <div class="row">
+                <div class="row animate-box ">
+                    <div class="col-md-8 col-md-offset-2 text-center">
+                        <p class="mb-2" style="font-size: 18px; font-family: Dancing Script, cursive;"><strong>Padrinos de Arras</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="row animate-box card-wrap" style="margin-left: 5px; margin-right: 5px;">
+                <div class="card mb-3 me-1">
+                    <div class="text-center">
+                        <div class="card-body">
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;">Gabriela Navarro Acuña</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="card mb-3 ms-1">
+                    <div class="text-center">
+                        <div class="card-body">
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;">Abraham Esparza Lozano</h4>
                         </div>
                     </div>
                 </div>
@@ -391,7 +443,7 @@
                     <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style="margin-bottom: 0px !important;">
                         <span>Estadía</span>
                         <h2 class="d_title" style="color: #9fba68 !important; font-size:2.5rem !important; font-family: Dancing Script, cursive;">Hospedaje Recomendado</h2>
-                        <h5 class="sub-titulo-hotel" style="font-family: Oswald, sans-serif;">¡Mazamitla cuenta con hospedajes de todos los tamaños y para todos los presupuestos!</h5>
+                        <!-- <h5 class="sub-titulo-hotel" style="font-family: Oswald, sans-serif;">¡Mazamitla cuenta con hospedajes de todos los tamaños y para todos los presupuestos!</h5> -->
                     </div>
                 </div>
 
@@ -406,12 +458,13 @@
                                             <img src="images/bosque_escondido.png" alt="Portozul Hotel & Suites">
                                         </figure>
                                     </a>
-                                    <span style="color:#9fba68; font-family: Oswald, sans-serif;">Hotel Bosque Escondido<a target="_blank" href="https://maps.app.goo.gl/MHVKiu85fuwWSRJeA" class="twitter"><br>Vista Nevada #100, Fracc. Pueblo Bonito. 49500 - Mazamitla, Jalisco</a></span>
-                                    <a target="_blank" style="color: #9fba68;" href="https://maps.app.goo.gl/MHVKiu85fuwWSRJeA" class="twitter">Mapa</a>
+                                    <span style="color:#9fba68; font-family: Oswald, sans-serif;">Cabañas El Oso<a target="_blank" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">
+                                        <br>La Cofradía, Mazamitla, Jal.</a></span>
+                                    <a target="_blank" style="color: #9fba68;" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">Mapa</a>
                                 </div>
                             </div>
 
-                            <div class="item">
+                            <!-- <div class="item">
                                 <div class="testimony-slide active text-center">
                                     <a target="_blank" href="https://latrojedemazamitla.com.mx/">
                                         <figure>
@@ -422,9 +475,9 @@
                                             Galeana 53, El Charco, 49500 Mazamitla, Jal..</a></span>
                                     <a target="_blank" style="color: #9fba68;" href="https://maps.app.goo.gl/QLF5BrQejgtMMGBp8" class="twitter">Mapa</a>
                                 </div>
-                            </div>
+                            </div> -->
 
-                            <div class="item">
+                            <!-- <div class="item">
                                 <div class="testimony-slide active text-center">
                                     <a target="_blank" href="https://www.lenadormazamitla.com/">
                                         <figure>
@@ -434,7 +487,7 @@
                                     <span style="font-family: Oswald, sans-serif;">Hotel Leñador Mazamitla <a target="_blank" href="https://maps.app.goo.gl/xX4xPrnFCGLEdtjJA" class="twitter"><br>Netzahualcóyotl 4, La Gloria, 49500 Mazamitla, Jal.</a></span>
                                     <a target="_blank" style="color: #9fba68;" href="https://maps.app.goo.gl/xX4xPrnFCGLEdtjJA" class="twitter">Mapa</a>
                                 </div>
-                            </div>
+                            </div> -->
 
 
 
@@ -460,9 +513,14 @@
                 <div class="animate-box text-center">
                     <div class="col-md-12">
                         <div>
-                            <h4 style="font-family: Oswald, sans-serif;">Riguroso formal… y Amazing!</h4>
-                            <p style="font-family: Oswald, sans-serif;">Es nuestro día especial y queremos que luzcas espectacular , hombres de traje y mujeres de largo , reserva el blanco y paleta de colores similar (beige,ivory ) para la novia </p>
+                            <h4 style="font-family: Oswald, sans-serif;">Etiqueta</h4>
+                            <p style="font-family: Oswald, sans-serif;">
+                                "El blanco y el beige son hermosos pero en nuestra boda son exclusivos para la novia y el novio".
+                                 Elige el color de tu preferencia evitando unicamente colores muy claros o similares al blanco como perla,
+                                  baby yellow, etc." 
                         </div>
+                     <a target="_blank" href="https://pin.it/60s78RckR" class="btn " style="background: #fdfdfd; border-color: #9fba68; height: 40px;">Te ayudamos con algunas ideas</a>
+
                     </div>
                 </div>
                 <!-- <div class="animate-box text-center">
@@ -490,55 +548,60 @@
             <div class="wrap-gift">
                 <div class="container">
                     <div class="row">
-                            <!-- <div class="card-gift mt-3 text-center animate-box mr-gift">
-                                <div class="card">
-                                    <div>
-                                        <img class="img-fluid" style="max-width: 50%;" src="images/mesa-regalos-ama.png">
-                                    </div>
-                                    <p>
-                                        “Gracias por su generosa contribución a nuestro comienzo juntos.”
-                                    </p>
-                                    <div class="card-body" style="margin-top: 15px;">
-                                        <h5 class="card-title">El "Modernou":</h5>
-                                        <h5 class="card-title">Amazon </h5>
-                                        <p class="card-text">Valeria y Javier</p>
-                                        <a target="_blank" href="https://www.amazon.com.mx/wedding/share/valyjavier" class="btn " style="background: #9fba68; border-color: #9fba68; height: 40px;">Regalar</a>
-                                    </div>
-                                </div>
-                            </div> -->
-
-                            <!-- <div class="card-gift mt-3 text-center animate-box mr-gift">
+                        
+                            <div class="card-gift mt-3 text-center animate-box mr-gift">
                                 <div class="card">
                                     <div>
                                         <img class="img-fluid" style="max-width: 50%;" src="images/mesa-regalos-liv.jpg">
                                     </div>
+                                     <p>
+                                        “Gracias por su generosa contribución a nuestro comienzo juntos.”
+                                    </p>
                                     <div class="card-body" style="margin-top: 15px;">
-                                        <h5 class="card-title">El Clásico:</h5>
                                         <h5 class="card-title">Liverpool</h5>
-                                        <p class="card-text">Número de evento:51361929</p>
-                                        <a target="_blank" href="https://mesaderegalos.liverpool.com.mx/milistaderegalos/51361929" class="btn btn-primary" style="background: #b78e24; border-color: #b78e24; height: 40px;">Regalar</a>
+                                        <h5 class="card-title">NUESTRA BODA MARYFER Y CESAR</h5>
+                                        <p class="card-text">Número de evento: 51736681</p>
+                                        <a target="_blank" href="https://mesaderegalos.liverpool.com.mx/milistaderegalos/51736681" class="btn btn-primary" style="background: #b78e24; border-color: #b78e24; height: 40px;">Regalar</a>
                                     </div>
                                 </div>
-                            </div> -->
+                            </div>
 
-                        <div class="card-gift mt-3 text-center animate-box mr-gift">
+                            <div class="card-gift mt-3 text-center animate-box mr-gift">
+                                <div class="card">
+                                    <div>
+                                        <img class="img-fluid mt-5" style="max-width: 25%;" src="images/mesa-regalos-can.png">
+                                    </div>
+                                   
+                                    <div class="card-body" style="margin-top: 15px;">
+                                        <!-- <h5 class="card-title">El "Modernou":</h5> -->
+                                        <h5 class="card-title">Cantia </h5>
+                                        <p class="card-text">Maryfer y Cesar</p>
+                                        <p class="card-text">Número de evento: #Event22303</p>
+
+                                        <a target="_blank" href="https://www.amazon.com.mx/wedding/share/valyjavier" class="btn " style="background: #9fba68; border-color: #9fba68; height: 40px;">Regalar</a>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        <!-- <div class="card-gift mt-3 text-center animate-box mr-gift">
                             <div class="card">
                                 <div>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-box2-heart" viewBox="0 0 16 16">
                                     <path d="M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982"/>
                                     <path d="M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z"/>
-                                    </svg>
+                                    </svg> -->
                                     <!-- <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-gift-fill" viewBox="0 0 16 16">
                                     <path d="M3 2.5a2.5 2.5 0 0 1 5 0 2.5 2.5 0 0 1 5 0v.006c0 .07 0 .27-.038.494H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h2.038A3 3 0 0 1 3 2.506zm1.068.5H7v-.5a1.5 1.5 0 1 0-3 0c0 .085.002.274.045.43zM9 3h2.932l.023-.07c.043-.156.045-.345.045-.43a1.5 1.5 0 0 0-3 0zm6 4v7.5a1.5 1.5 0 0 1-1.5 1.5H9V7zM2.5 16A1.5 1.5 0 0 1 1 14.5V7h6v9z"/>
                                     </svg> -->
-                                </div>
+                        <!-- </div>
                                 <div class="card-body" style="margin-top: 10px;">
-                                    <h5 class="card-title" style="font-family: Oswald, sans-serif;">Sin ti esto no sería igual .gracias por tu compañía en esta nueva etapa ,que comenzamos . El regalo es opcional ,la asistencia es obligatoria.Pero si quieres tener un detalle con nosotros, suma kilómetros a nuestro viaje ¡</h5>
+                                    <h5 class="card-title" style="font-family: Oswald, sans-serif;">NUESTRA BODA MARYFER Y CESAR</h5>
                                     <h4 class="card-text mt-5" style="font-family: Oswald, sans-serif;">Cuenta: 012 374 015969185966</h4>
-                                    <h5 class="card-title " style="font-family: Oswald, sans-serif;">Titular: Mariela Valdez Rubio BBVA</h5>
+                                    <h5 class="card-title " style="font-family: Oswald, sans-serif;">Titular: Mariela Valdez Rubio BBVA</h5> -->
                                     <!-- <a target="_blank" href="#" class="btn btn-primary" style="background: #b78e24; border-color: #b78e24; height: 40px;">Regalar</a> -->
-                                </div>
-                            </div>
+                                <!-- </div>
+                            </div> -->
                         </div>
 
                     </div>
@@ -557,19 +620,21 @@
 
                     <!-- <p style="color: white; margin-top: 20px;">Estamos emocionados de celebrar nuestro día especial y nos encantaría contar con su presencia.</p> -->
                     <p><strong>
-                            <h4 style="color:white; font-family: Oswald, sans-serif;">¿Vas a ser parte de nuestra historia de amor? Confirma tu asistencia</h4>
+                            <h4 style="color:white; font-family: Oswald, sans-serif;">Su presencia será el regalo más grande. Confirma pronto para hacer de este día un momento inolvidable.</h4>
                         </strong></p>
                 </div>
+                <a target="_blank" href="https://calendar.app.google/gzY49r8J7HW3DaMp8" class="btn " style="background: #fdfdfd;
+                 border-color: #9fba68; height: 40px;">Google Calendar</a>
             </div>
             <div class="row animate-box" style="margin-bottom: 20px;">
                 <div class="col-md-10 col-md-offset-1 text-center">
-                    <form class="form-inline">
+                    <!-- <form class="form-inline">
                         <div class="col-md-8 col-sm-8">
                             <div id="inpName" class="form-group">
                                 <label for="name" class="sr-only">Nombre</label>
                                 <input style="font-family: Oswald, sans-serif;" name="name" type="name" class="form-control" id="name" placeholder="Escribe tu nombre aquí y el de tus acompañantes.">
                             </div>
-                        </div>
+                        </div> -->
                         <!--div class="col-md-3 col-sm-3">
                             <div id="inpPers" class="form-group">
                                 <label for="pers" class="sr-only">Personas</label>
@@ -577,10 +642,10 @@
                                     placeholder="N° Personas">
                             </div>
                         </div-->
-                        <div class="col-md-4 col-sm-4">
+                        <!-- <div class="col-md-4 col-sm-4">
                             <a style="padding-top: 16px; padding-left: 10px; padding-right: 10px; margin-top: 0px; font-size: 14px;" id="btnconf" type="submit" class="btn btn-default btn-block">Confirmar Asistencia</a>
                         </div>
-                    </form>
+                    </form> -->
                 </div>
             </div>
         </div>
