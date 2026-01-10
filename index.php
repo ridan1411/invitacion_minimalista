@@ -31,6 +31,7 @@
     <!-- Fonts -->
     <link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Imbue:opsz,wght@10..100,100..900&display=swap" rel="stylesheet">
     <!-- Fonts -->
 
     <!-- Font Awesome -->
@@ -186,7 +187,7 @@
                         <div class="col-md-12">
                             <div class="col-md-6 col-sm-6 text-center">
                                 <div class="event-wrap animate-box" style="padding: 25px;">
-                                    <span><i style="color: #9fba68;" class="fas fa-church fa-3x"></i></span>
+                                    <span><i style="color: #aa9274;" class="fas fa-church fa-3x"></i></span>
                                     <h3 style="color:black; padding-bottom: 0px !important;">Ceremonia Religiosa
                                     </h3>
                                     <div class="event-col">
@@ -195,7 +196,7 @@
                                         <p style="color:black;"> 04:00 PM </p>
                                     </div>
                                     <div>
-                                        <i class="icon-location" style="color:#9fba68;"></i>
+                                        <i class="icon-location" style="color:#aa9274;"></i>
                                     </div>
                                     <div>
                                         <p style="color:black;  margin-bottom: 0px;">Parroquia de San Cristobal
@@ -205,20 +206,20 @@
                                     </div>
                                     <div>
                                         <strong>
-                                            <p style="margin-bottom: 0px;"><a style="color: #9fba68;"
+                                            <p style="margin-bottom: 0px;"><a style="color: #aa9274;"
                                                     target="_blank"
                                                     href="https://maps.app.goo.gl/uQ96eEKGHX7mUBav5">Google Maps</a></p>
                                         </strong>
                                     </div>
                                     <div>
-                                        <strong><a style="color: #9fba68; cursor: pointer;" data-toggle="modal"
+                                        <strong><a style="color: #aa9274; cursor: pointer;" data-toggle="modal"
                                                 data-target="#parroquiaimg">Foto</a></strong>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-12 col-sm-12 text-center">
                                 <div class="event-wrap animate-box" style="padding: 25px;">
-                                    <span><i style="color: #9fba68;;" class="fas fa-glass-cheers fa-3x"></i></span>
+                                    <span><i style="color: #aa9274;;" class="fas fa-glass-cheers fa-3x"></i></span>
                                     <h3 style="color:black; padding-bottom: 0px !important; font-family: Dancing Script, cursive;">Evento</h3>
                                     <div class="event-col">
                                         <p style="color:black; margin-bottom: 0px;"> Sabado, 25 de Abril de 2026
@@ -226,7 +227,7 @@
                                         <p style="color:black;"> 05:30 PM </p>
                                     </div>
                                     <div>
-                                        <i class="icon-location" style="color:#9fba68;"></i>
+                                        <i class="icon-location" style="color:#aa9274;"></i>
                                     </div>
                                     <div>
                                         <p style="color:black;  margin-bottom: 0px; font-family: Oswald, sans-serif;">Cabañas el Oso</p>
@@ -234,12 +235,12 @@
                                     </div>
                                     <div>
                                         <strong>
-                                            <p style="margin-bottom: 0px;"><a style="color: #9fba68;;" target="_blank" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9">Google Maps</a></p>
+                                            <p style="margin-bottom: 0px;"><a style="color: #aa9274;;" target="_blank" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9">Google Maps</a></p>
                                         </strong>
                                     </div>
                                     <!-- <div>
                                         <strong>
-                                            <a style="color: #9fba68;; cursor: pointer;" data-toggle="modal"
+                                            <a style="color: #aa9274;; cursor: pointer;" data-toggle="modal"
                                                 data-target="#labonitaimg">Foto</a>
                                         </strong>
                                     </div> -->
@@ -442,7 +443,7 @@
                 <div class="animate-box">
                     <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style="margin-bottom: 0px !important;">
                         <span>Estadía</span>
-                        <h2 class="d_title" style="color: #9fba68 !important; font-size:2.5rem !important; font-family: Dancing Script, cursive;">Hospedaje Recomendado</h2>
+                        <h2 class="d_title" style="color: #aa9274 !important; font-size:2.5rem !important; font-family: Dancing Script, cursive;">Hospedaje Recomendado</h2>
                         <!-- <h5 class="sub-titulo-hotel" style="font-family: Oswald, sans-serif;">¡Mazamitla cuenta con hospedajes de todos los tamaños y para todos los presupuestos!</h5> -->
                     </div>
                 </div>
@@ -458,9 +459,9 @@
                                             <img src="images/cabana_el_oso.png" alt="Portozul Hotel & Suites">
                                         </figure>
                                     </a>
-                                    <span style="color:#9fba68; font-family: Oswald, sans-serif;">Cabañas El Oso<a target="_blank" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">
+                                    <span style="color:#aa9274; font-family: Oswald, sans-serif;">Cabañas El Oso<a target="_blank" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">
                                         <br>La Cofradía, Mazamitla, Jal.</a></span>
-                                    <a target="_blank" style="color: #9fba68;" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">Mapa</a>
+                                    <a target="_blank" style="color: #aa9274;" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">Mapa</a>
                                 </div>
                             </div>
 
@@ -471,9 +472,9 @@
                                             <img src="images/cabana_el_oso.png" alt="Portozul Hotel & Suites">
                                         </figure>
                                     </a>
-                                    <span style="color:#9fba68; font-family: Oswald, sans-serif;">Cabañas El Oso<a target="_blank" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">
+                                    <span style="color:#aa9274; font-family: Oswald, sans-serif;">Cabañas El Oso<a target="_blank" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">
                                         <br>La Cofradía, Mazamitla, Jal.</a></span>
-                                    <a target="_blank" style="color: #9fba68;" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">Mapa</a>
+                                    <a target="_blank" style="color: #aa9274;" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">Mapa</a>
                                 </div>
                             </div>
 
@@ -487,7 +488,7 @@
                                         </figure>
                                     </a>
                                     <span style="font-family: Oswald, sans-serif;">Hotel Leñador Mazamitla <a target="_blank" href="https://maps.app.goo.gl/xX4xPrnFCGLEdtjJA" class="twitter"><br>Netzahualcóyotl 4, La Gloria, 49500 Mazamitla, Jal.</a></span>
-                                    <a target="_blank" style="color: #9fba68;" href="https://maps.app.goo.gl/xX4xPrnFCGLEdtjJA" class="twitter">Mapa</a>
+                                    <a target="_blank" style="color: #aa9274;" href="https://maps.app.goo.gl/xX4xPrnFCGLEdtjJA" class="twitter">Mapa</a>
                                 </div>
                             </div> -->
 
@@ -507,7 +508,7 @@
 
             <div class="row animate-box">
                 <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style='margin-bottom: 5px;'>
-                    <h2 class="d_title" style="color: #9fba68 !important; font-size:2.5rem !important; font-family: Dancing Script, cursive;">Código de Vestimenta</h2>
+                    <h2 class="d_title" style="color: #aa9274 !important; font-size:2.5rem !important; font-family: Dancing Script, cursive;">Código de Vestimenta</h2>
                 </div>
             </div>
 
@@ -521,7 +522,7 @@
                                  Elige el color de tu preferencia evitando unicamente colores muy claros o similares al blanco como perla,
                                   baby yellow, etc." 
                         </div>
-                     <a target="_blank" href="https://pin.it/60s78RckR" class="btn " style="background: #fdfdfd; border-color: #9fba68; height: 40px;">Te ayudamos con algunas ideas</a>
+                     <a target="_blank" href="https://pin.it/60s78RckR" class="btn " style="background: #fdfdfd; border-color: #aa9274; height: 40px;">Te ayudamos con algunas ideas</a>
 
                     </div>
                 </div>
@@ -544,7 +545,7 @@
         <div id="mesaregalos" class="container">
             <div class="row animate-box">
                 <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style="margin-bottom: 0px;">
-                    <h2 style="color: #9fba68 !important; font-size:2.5rem !important; font-family: Dancing Script, cursive;">Mesa de Regalos</h2>
+                    <h2 style="color: #aa9274 !important; font-size:2.5rem !important; font-family: Dancing Script, cursive;">Mesa de Regalos</h2>
                 </div>
             </div>
             <div class="wrap-gift">
@@ -580,7 +581,7 @@
                                         <p class="card-text">Maryfer y Cesar</p>
                                         <p class="card-text">Número de evento: #Event22303</p>
 
-                                        <a target="_blank" href="https://www.amazon.com.mx/wedding/share/valyjavier" class="btn " style="background: #9fba68; border-color: #9fba68; height: 40px;">Regalar</a>
+                                        <a target="_blank" href="https://www.amazon.com.mx/wedding/share/valyjavier" class="btn " style="background: #aa9274; border-color: #aa9274; height: 40px;">Regalar</a>
                                     </div>
                                 </div>
                             </div>
@@ -628,7 +629,7 @@
 
                 <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
                         <a target="_blank" href="https://calendar.app.google/gzY49r8J7HW3DaMp8" class="btn " style="background: #fdfdfd;
-                        border-color: #9fba68; height: 40px;">Save the Date</a>
+                        border-color: #aa9274; height: 40px;">Save the Date</a>
                 </div>
 
             </div>
