@@ -674,11 +674,11 @@
 
                         <?php
 
-                        for ($i = 1; $i <= 36; $i++) {
+                        for ($i = 1; $i <= 10; $i++) {
 
                         ?>
-                            <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/galeria/<?php echo $i ?>.jpeg); ">
-                                <a target="_blank" href="images/galeria/<?php echo $i ?>.jpeg">
+                            <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/galeria/<?php echo $i ?>.jpg); ">
+                                <a target="_blank" href="images/galeria/<?php echo $i ?>.jpg">
                                     <div class="case-studies-summary">
 
                                         <h2></h2>
