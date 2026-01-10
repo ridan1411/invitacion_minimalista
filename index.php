@@ -453,9 +453,9 @@
 
                             <div class="item">
                                 <div class="testimony-slide active text-center">
-                                    <a target="_blank" href="https://www.bosqueescondido.com.mx/">
+                                    <a target="_blank" href="">
                                         <figure>
-                                            <img src="images/bosque_escondido.png" alt="Portozul Hotel & Suites">
+                                            <img src="images/cabana_el_oso.png" alt="Portozul Hotel & Suites">
                                         </figure>
                                     </a>
                                     <span style="color:#9fba68; font-family: Oswald, sans-serif;">Cabañas El Oso<a target="_blank" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">
@@ -466,16 +466,18 @@
 
                             <div class="item">
                                 <div class="testimony-slide active text-center">
-                                    <a target="_blank" href="https://latrojedemazamitla.com.mx/">
+                                    <a target="_blank" href="">
                                         <figure>
-                                            <img src="images/hotel_la_troje.jpg" alt="user">
+                                            <img src="images/cabana_el_oso.png" alt="Portozul Hotel & Suites">
                                         </figure>
                                     </a>
-                                    <span style="font-family: Oswald, sans-serif;">Hotel La Troje<a target="_blank" href="https://maps.app.goo.gl/QLF5BrQejgtMMGBp8" class="twitter"><br>
-                                            Galeana 53, El Charco, 49500 Mazamitla, Jal..</a></span>
-                                    <a target="_blank" style="color: #9fba68;" href="https://maps.app.goo.gl/QLF5BrQejgtMMGBp8" class="twitter">Mapa</a>
+                                    <span style="color:#9fba68; font-family: Oswald, sans-serif;">Cabañas El Oso<a target="_blank" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">
+                                        <br>La Cofradía, Mazamitla, Jal.</a></span>
+                                    <a target="_blank" style="color: #9fba68;" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">Mapa</a>
                                 </div>
                             </div>
+
+                       
 
                             <!-- <div class="item">
                                 <div class="testimony-slide active text-center">
@@ -623,8 +625,12 @@
                             <h4 style="color:white; font-family: Oswald, sans-serif;">Su presencia será el regalo más grande. Confirma pronto para hacer de este día un momento inolvidable.</h4>
                         </strong></p>
                 </div>
-                <a target="_blank" href="https://calendar.app.google/gzY49r8J7HW3DaMp8" class="btn " style="background: #fdfdfd;
-                 border-color: #9fba68; height: 40px;">Google Calendar</a>
+
+                <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+                        <a target="_blank" href="https://calendar.app.google/gzY49r8J7HW3DaMp8" class="btn " style="background: #fdfdfd;
+                        border-color: #9fba68; height: 40px;">Save the Date</a>
+                </div>
+
             </div>
             <div class="row animate-box" style="margin-bottom: 20px;">
                 <div class="col-md-10 col-md-offset-1 text-center">
@@ -673,6 +679,43 @@
                         ?>
                             <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/galeria/<?php echo $i ?>.jpeg); ">
                                 <a target="_blank" href="images/galeria/<?php echo $i ?>.jpeg">
+                                    <div class="case-studies-summary">
+
+                                        <h2></h2>
+                                    </div>
+                                </a>
+                            </li>
+                        <?php
+
+                        }
+
+                        ?>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Galería -->
+    <div id="fh5co-gallery" class="fh5co-section-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-center animate-box">
+                    <h2 class="d_title" style="font-family: Dancing Script, cursive;">Galería Cabañas El Oso</h2>
+                </div>
+            </div>
+            <div class="row row-bottom-padded-md">
+                <div class="col-md-12">
+                    <ul id="fh5co-gallery-list">
+
+                        <?php
+
+                        for ($i = 1; $i <= 31; $i++) {
+
+                        ?>
+                            <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/galeria_cabana/<?php echo $i ?>.PNG); ">
+                                <a target="_blank" href="images/galeria_cabana/<?php echo $i ?>.PNG">
                                     <div class="case-studies-summary">
 
                                         <h2></h2>
