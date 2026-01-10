@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Mi Boda | Mariela y Carlos</title>
+    <title>Mi Boda | María y Cesar</title>
     <link rel="shortcut icon" type="image/x-icon" href="images/ico.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=" " />
@@ -111,8 +111,8 @@
                     <div class="col-md-8 col-md-offset-2 text-center">
                         <div class="display-t">
                             <div class="display-tc animate-box " data-animate-effect="fadeIn">
-                                <h1 style="font-family: Dancing Script, cursive;">Mariela<br> &amp; <br> Carlos</h1>
-                                <h2><strong> 15 Mayo, 2026 </strong></h2>
+                                <h1 style="font-family: Dancing Script, cursive;">María<br> &amp; <br> Cesar</h1>
+                                <h2><strong>25 Abril, 2026 </strong></h2>
                                 <div id="cuenta" class="simply-countdown simply-countdown-one"></div><!-- aqui uno -->
                                 <!--link agenda google calendar-->
                                 
@@ -122,17 +122,10 @@
                                             <i id="icon" class="fas fa-play"></i>
                                         </button>
 
-                                        <!-- Audio -->
-                                        <audio id="weddingSong">
-                                            <source src="audio/ed_Sheeran_Photograph.mp3" type="audio/mpeg">
-                                            Tu navegador no soporta audio HTML5.
-                                        </audio>
+        
                                     </div>
                                 </div>
 
-                                <!-- <p><a target="_blank" href="https://calendar.app.google/S3p4oiV33gnEuTGA7" class="btn btn-default btn-sm">Save the date</a></p> -->
-
-                                <!--link agenda google calendar-->
                             </div>
                         </div>
                     </div>
@@ -141,9 +134,19 @@
     </div>
     </header>
 
-    <div class="texto-titulo mt-1" style="padding: 10px; font-family: Oswald, sans-serif;">
-        <p>"Nos encontramos, nos elegimos y hoy queremos compartir con ustedes nuestra felicidad."</p>
-        <p>Después de 4 años de amor,felicidad y logros , llegó nuestro momento¡</p>
+    <div class="texto-titulo mt-1" style="padding: 40px; font-family: Oswald, sans-serif;">
+        <p>He aquí que a pocos pasos me encontré al que adora mi alma. Corintios 3:4 <br>
+            Creemos que el amor verdadero no llega por casualidad, sino como un regalo divino, 
+            un encuentro guiado por Dios y por aquello que nos une más allá de lo visible. <br>
+            Nuestros caminos se cruzaron para recordarnos que amar también es crecer, sanar, 
+            aprender y elegirnos con el corazón abierto, incluso cuando el mundo parece detenerse. <br>
+            Hoy decidimos unir nuestras vidas y caminar juntos bajo la promesa de cuidarnos, amarnos y honrar nuestras raíces, 
+            agradeciendo profundamente a quienes nos enseñaron a amar y a creer en la familia y 
+            llevando en el corazón la presencia viva de aquellos que ya no están físicamente, pero que siguen guiándonos y
+            bendiciendo este camino desde otro lugar. <br>
+            Nada nos haría más felices que compartir este día tan especial con ustedes, 
+            las personas que han sido parte de nuestra historia y que sean testigos del comienzo de nuestra vida juntos, 
+            sostenida por el amor, la gratitud y la memoria de quienes viven eternamente en nuestro corazón.</p>
     </div>
 
     <!-- Welcome -->
@@ -195,7 +198,7 @@
                                         <i class="icon-location" style="color:#9fba68;"></i>
                                     </div>
                                     <div>
-                                        <p style="color:black;  margin-bottom: 0px;">Parroquia De San Miguel Arcángel
+                                        <p style="color:black;  margin-bottom: 0px;">Parroquia de San Cristobal
                                         </p>
                                         <p style="color:black;">C. Centenario 202, 49460 La Manzanilla de la Paz, Jal., México</p>
                                         <br>
