@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Mi Boda | María y Cesar</title>
+    <title>Mi Boda | Maryfer y Cesar</title>
     <link rel="shortcut icon" type="image/x-icon" href="images/ico.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=" " />
@@ -112,20 +112,26 @@
                     <div class="col-md-8 col-md-offset-2 text-center">
                         <div class="display-t">
                             <div class="display-tc animate-box " data-animate-effect="fadeIn">
-                                <h1 style="font-family: Dancing Script, cursive;">María<br> &amp; <br> Cesar</h1>
+                                <h1 style="font-family: Dancing Script, cursive;">Maryfer<br> &amp; <br> Cesar</h1>
                                 <h2><strong>25 Abril, 2026 </strong></h2>
                                 <div id="cuenta" class="simply-countdown simply-countdown-one"></div><!-- aqui uno -->
                                 <!--link agenda google calendar-->
                                 
+                               
                                 <div class="container" style="display: flex; justify-content:center;">
                                     <div class="music-container">
-                                        {{-- <button id="playBtn" class="music-btn">
+                                        <button id="playBtn" class="music-btn">
                                             <i id="icon" class="fas fa-play"></i>
-                                        </button> --}}
+                                        </button>
 
-        
+                                        <!-- Audio -->
+                                        <audio id="weddingSong">
+                                            <source src="audio/ed_Sheeran_Photograph.mp3" type="audio/mpeg">
+                                            Tu navegador no soporta audio HTML5.
+                                        </audio>
                                     </div>
                                 </div>
+
 
                             </div>
                         </div>
@@ -178,7 +184,7 @@
         </div> -->
 
     <!-- Evento -->
-    <div id="fh5co-event" class="fh5co-bg" style="background-image:url(images/main_images/img_bg_1.jpeg); background-size: cover; background-size: cover;background-position: center; background-repeat: no-repeat; padding: 2em 0; z-index: 100;">
+    <div id="fh5co-event" class="fh5co-bg" style="background-image:url(images/fondo_seda_01.jpg); background-size: cover; background-size: cover;background-position: center; background-repeat: no-repeat; padding: 2em 0; z-index: 100;">
         <div class="overlay"></div>
         <div id="cuandodonde" class="container">
             <div class="row">
@@ -437,7 +443,7 @@
 
     <!-- Hospedaje Recomendado-->
 
-    <div id="fh5co-testimonial" class="">
+    <div id="fh5co-testimonial" class=""  style="background-image:url(images/fondo_seda_02.jpg); background-size: cover; background-size: cover;background-position: center; background-repeat: no-repeat; padding: 2em 0; z-index: 100;">
         <div id="hospedajerecomendado" class="container">
             <div class="row">
                 <div class="animate-box">
@@ -459,9 +465,9 @@
                                             <img src="images/cabana_el_oso.png" alt="Portozul Hotel & Suites">
                                         </figure>
                                     </a>
-                                    <span style="color:#aa9274; font-family: Oswald, sans-serif;">Cabañas El Oso<a target="_blank" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">
-                                        <br>La Cofradía, Mazamitla, Jal.</a></span>
-                                    <a target="_blank" style="color: #aa9274;" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">Mapa</a>
+                                    <span style="color: #000000; font-family: Oswald, sans-serif;">Cabañas El Oso
+                                        <br>La Cofradía, Mazamitla, Jal.</span>
+                                    <a target="_blank" style="color: #000000;" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">Mapa</a>
                                 </div>
                             </div>
 
@@ -615,7 +621,7 @@
     </div>
 
     <!-- Aviso -->
-    <div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/galeria/27.jpeg);">
+    <div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/fondo_seda.jpg);">
         <div class="overlay" style="background: rgb(0 0 0 / 76%);"></div>
         <div id="asistencia" class="container">
             <div class="row animate-box">
@@ -665,7 +671,7 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center animate-box">
                     <span style="font-family: Oswald, sans-serif;">Nuestros Recuerdos</span>
-                    <h2 class="d_title" style="font-family: Dancing Script, cursive;">Galería</h2>
+                    <h2 class="d_title" style="color: #aa9274 !important; font-family: Dancing Script, cursive;">Galería</h2>
                     <p style="font-family: Oswald, sans-serif;">Compartimos con gente especial una parte de nosotros.</p>
                 </div>
             </div>
@@ -703,7 +709,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center animate-box">
-                    <h2 class="d_title" style="font-family: Dancing Script, cursive;">Galería Cabañas El Oso</h2>
+                    <h2 class="d_title" style="color: #aa9274 !important; font-family: Dancing Script, cursive;">Galería Cabañas El Oso</h2>
                 </div>
             </div>
             <div class="row row-bottom-padded-md">

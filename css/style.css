@@ -752,7 +752,7 @@ figure {
   position: absolute;
   content: " ";
   width: 1px;
-  background-color: #f4d37d;
+  background-color: #e2d9c8;
   left: 50%;
   margin-left: 0px;
 }
@@ -1615,7 +1615,7 @@ form label {
 }
 
 #fh5co-testimonial {
-  background-color: rgb(255, 255, 255);
+  background-color: #e2d9c8;
 }
 
 #fh5co-testimonial .wrap-testimony {
@@ -2457,7 +2457,7 @@ color: #000;
 
 .titulo {
   height: 10vh;
-  background-color: #faf5f5;
+  background-color: #e2d9c8;
   text-align: center;
 }
 
@@ -2476,7 +2476,7 @@ color: #000;
 }
 
 .gallery {
-  background-color: #fc0606;
+  background-color: #e2d9c8;
   padding: 10px 0;
   z-index: 90;
   border-radius: 20px;
@@ -2485,7 +2485,7 @@ color: #000;
 }
 
 .gallery img {
-  background-color: #ebe9e9;
+  background-color:#e2d9c8;
   padding: 10px;
   width: 100%;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
@@ -2549,7 +2549,7 @@ color: #000;
 }
 
 #fh5co-gallery {
-  background-color: rgb(255, 255, 255);
+  background-color:#e2d9c8;
 }
 
 #margin-none {
@@ -2737,3 +2737,4 @@ header#fh5co-header {
 .d_title{
   font-size: 2rem!important;
 }
+
