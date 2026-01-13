@@ -303,7 +303,7 @@
                     style="margin-bottom: -30px;">
                     <br><br>
                     <p id="margin-none" class="mt-5 mb-1">&nbsp;</p>
-                    <h2 class="d_title" style="font-size: 26px; font-family: Imbue, serif; !important">Nos Acompañan
+                    <h2 class="d_title" style="font-size: 26px; font-family: Imbue, serif; !important">Con la bendición de
                     </h2>
                 </div>
             </div>
@@ -351,14 +351,14 @@
                 <div class="card mb-3 me-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Elvira Lozano Veloz </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Elvira Lozano Veloz †</h4>
                         </div>
                     </div>
                 </div>
                 <div class="card mb-3 ms-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Abraham Esparza Ruíz</h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Abraham Esparza Ruíz †</h4>
                         </div>
                     </div>
                 </div>
@@ -386,7 +386,7 @@
                 <div class="card mb-3 ms-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Antonio Vadivia Martínez</h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Antonio Valdivia Martínez</h4>
                         </div>
                     </div>
                 </div>
@@ -951,19 +951,24 @@
 
 
     <!-- Modal Paroquia Img-->
-    <div class="modal fade" id="parroquiaimg" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog" role="document">
+       <div class="modal fade" id="parroquiaimg" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body" style="background-image:url(images/Parroquia_De_San_Miguel_Arcangel.jpeg); background-size: cover; background-repeat: no-repeat; min-height: 100vh">
-                </div>
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            <div class="modal-body p-0 d-flex justify-content-center">
+                <img 
+                src="images/Parroquia_De_San_Miguel_Arcangel.jpeg"
+                class="img-fluid"
+                alt="Parroquia de San Miguel Arcángel">
+            </div>
             </div>
         </div>
-    </div>
+        </div>
+
+
 
     <!-- Modal Cabañas la bonita Img-->
     <div class="modal fade" id="labonitaimg" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">

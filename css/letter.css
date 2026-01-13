@@ -58,7 +58,8 @@
   background-color: #ffffff;
   box-shadow: -5px -5px 100px rgba(0,0,0,0.4);
 }
-w
+
+
 .card_letter:before {
   content:"";
   position: absolute;
@@ -165,4 +166,15 @@ w
 @keyframes scale_letter {
   0%,100% { transform: scaleX(1); }
   50% { transform: scaleX(0.85); }
+}
+
+.modal-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-body img {
+  max-width: 100%;
+  max-height: 80vh;
 }
