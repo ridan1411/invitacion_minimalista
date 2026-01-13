@@ -484,7 +484,7 @@
                 <div class="animate-box">
                     <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style="margin-bottom: 0px !important;">
                         <span>Estadía</span>
-                        <h2 class="d_title" style="color: #aa9274 !important; font-size:2.5rem !important; font-family: Imbue, serif; !important">Hospedaje Recomendado</h2>
+                        <h2 class="d_title" style="color: #aa9274 !important; font-size:2.5rem !important; font-family: Imbue, serif; !important">Hospedaje</h2>
                         <!-- <h5 class="sub-titulo-hotel" style="font-family: Oswald, sans-serif;">¡Mazamitla cuenta con hospedajes de todos los tamaños y para todos los presupuestos!</h5> -->
                     </div>
                 </div>
@@ -559,9 +559,9 @@
                         <div>
                             <h4 style="font-family: Imbue, serif; !important">Etiqueta</h4>
                             <p style="nt-family: BenchNine, sans-serif; !important">
-                                "El blanco y el beige son hermosos pero en nuestra boda son exclusivos para la novia y el novio".
-                                 Elige el color de tu preferencia evitando unicamente colores muy claros o similares al blanco como perla,
-                                  baby yellow, etc." 
+                                El blanco y el beige son hermosos pero en nuestra boda son exclusivos para la novia y el novio. <br>
+                                 Elige el color de tu preferencia evitando únicamente colores muy claros o similares al blanco como perla,
+                                  baby yellow, etc.
                         </div>
                      <a target="_blank" href="https://pin.it/60s78RckR" class="btn " style="color:#aa9274;  #background: #fdfdfd; border-color: #aa9274; height: 40px;">Te ayudamos con algunas ideas</a>
 
@@ -622,7 +622,7 @@
                                         <p class="card-text">Maryfer y Cesar</p>
                                         <p class="card-text">Número de evento: #Event22303</p>
 
-                                        <a target="_blank" href="https://www.amazon.com.mx/wedding/share/valyjavier" class="btn " style="background: #aa9274; border-color: #aa9274; color: #ffffff; height: 40px;">Regalar</a>
+                                        <a target="_blank" href="https://cantia.com.mx/apps/giftregistry/registry/22303" class="btn " style="background: #aa9274; border-color: #aa9274; color: #ffffff; height: 40px;">Regalar</a>
                                     </div>
                                 </div>
                             </div>
