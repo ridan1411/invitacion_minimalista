@@ -78,58 +78,59 @@
 
 </head>
 
-    <style>
-        .music-btn {
-            width: 70px;
-            height: 70px;
-            border-radius: 50%;
-            background: #adaaa0; /* dorado elegante */
-            color: #fff;
-            border: none;
-            font-size: 28px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            box-shadow: 0 6px 15px rgba(0,0,0,0.25);
-            transition: all 0.3s ease;
-        }
+<style>
+    .music-btn {
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        background: #adaaa0;
+        /* dorado elegante */
+        color: #fff;
+        border: none;
+        font-size: 28px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25);
+        transition: all 0.3s ease;
+    }
 
-        .music-btn:hover {
-            transform: scale(1.05);
-            background: #adaaa0;
-        }
+    .music-btn:hover {
+        transform: scale(1.05);
+        background: #adaaa0;
+    }
 
-        .music-container {
-            text-align: center;
-            margin-top: 40px;
-        }
-    </style>
+    .music-container {
+        text-align: center;
+        margin-top: 40px;
+    }
+</style>
 
 
 <body>
-                    <div id="loader_letter">
-                    <div class="container_letter">
-                        <div class="valentines_letter">
-                                                            <div class="envelope_letter"></div>
-                                                            <div class="front_letter"></div>
-                                                            <div class="card_letter">
-                                                                                            <div class="text_letter">
-                                                                                            Nuestra Boda <br>
-                                                                                            25·04·2026
-                                                                                            </div>
-                                                                                <div class="heart_letter"></div>
-                                                            </div>
-
-                                                            <div class="hearts_letter">
-                                                                <div class="one_letter"></div>
-                                                                <div class="two_letter"></div>
-                                                                <div class="three_letter"></div>
-                                                                <div class="four_letter"></div>
-                                                                <div class="five_letter"></div>
-                                                            </div>
-                        </div>
-                         </div>
+    <div id="loader_letter">
+        <div class="container_letter">
+            <div class="valentines_letter">
+                <div class="envelope_letter"></div>
+                <div class="front_letter"></div>
+                <div class="card_letter">
+                    <div class="text_letter">
+                        Nuestra Boda <br>
+                        25·04·2026
                     </div>
+                    <div class="heart_letter"></div>
+                </div>
+
+                <div class="hearts_letter">
+                    <div class="one_letter"></div>
+                    <div class="two_letter"></div>
+                    <div class="three_letter"></div>
+                    <div class="four_letter"></div>
+                    <div class="five_letter"></div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
     <div id="page">
@@ -145,8 +146,8 @@
                                 <h2 style="font-family: Imbue, serif; !important">25 Abril, 2026</h2>
                                 <div id="cuenta" class="simply-countdown simply-countdown-one"></div><!-- aqui uno -->
                                 <!--link agenda google calendar-->
-                                
-                               
+
+
                                 <div class="container" style="display: flex; justify-content:center;">
                                     <div class="music-container">
                                         <button id="playBtn" class="music-btn">
@@ -161,10 +162,10 @@
                                     </div>
                                 </div>
                                 <br>
-                                                     <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                                                             <a target="_blank" href="https://calendar.app.google/gzY49r8J7HW3DaMp8" class="btn pb-2" style="background: #fdfdfd;
+                                <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+                                    <a target="_blank" href="https://calendar.app.google/gzY49r8J7HW3DaMp8" class="btn pb-2" style="background: #fdfdfd;
                                                             border-color: #aa9274;">Save the Date</a>
-                                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -175,18 +176,18 @@
 
     <div class="texto-titulo mt-1">
         <p style="font-family: Herr Von Muellerhoff, cursive; font-size: 30px;">
-            He aquí que a pocos pasos me encontré al que adora mi alma. Corintios 3:4</p>  
-        <p  style="padding-left: 40px; padding-right: 40px; font-family: BenchNine, sans-serif;"> 
-            Creemos que el amor verdadero no llega por casualidad, sino como un regalo divino, 
+            He aquí que a pocos pasos me encontré al que adora mi alma. Corintios 3:4</p>
+        <p style="padding-left: 40px; padding-right: 40px; font-family: BenchNine, sans-serif;">
+            Creemos que el amor verdadero no llega por casualidad, sino como un regalo divino,
             un encuentro guiado por Dios y por aquello que nos une más allá de lo visible. <br>
-            Nuestros caminos se cruzaron para recordarnos que amar también es crecer, sanar, 
+            Nuestros caminos se cruzaron para recordarnos que amar también es crecer, sanar,
             aprender y elegirnos con el corazón abierto, incluso cuando el mundo parece detenerse. <br>
-            Hoy decidimos unir nuestras vidas y caminar juntos bajo la promesa de cuidarnos, amarnos y honrar nuestras raíces, 
-            agradeciendo profundamente a quienes nos enseñaron a amar y a crecer en familia y 
+            Hoy decidimos unir nuestras vidas y caminar juntos bajo la promesa de cuidarnos, amarnos y honrar nuestras raíces,
+            agradeciendo profundamente a quienes nos enseñaron a amar y a crecer en familia y
             llevando en el corazón la presencia viva de aquellos que ya no están físicamente, pero que siguen guiándonos y
             bendiciendo este camino desde otro lugar. <br>
-            Nada nos haría más felices que compartir este día tan especial con ustedes, 
-            las personas que han sido parte de nuestra historia y que sean testigos del comienzo de nuestra vida juntos, 
+            Nada nos haría más felices que compartir este día tan especial con ustedes,
+            las personas que han sido parte de nuestra historia y que sean testigos del comienzo de nuestra vida juntos,
             sostenida por el amor, la gratitud y la memoria de quienes viven eternamente en nuestro corazón.</p>
     </div>
 
@@ -278,7 +279,7 @@
                                             <p style="margin-bottom: 0px;"><a style="color: #aa9274;;" target="_blank" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9">Google Maps</a></p>
                                         </strong>
                                     </div>
-                                     <br><br>
+                                    <br><br>
                                     <!-- <div>
                                         <strong>
                                             <a style="color: #aa9274;; cursor: pointer;" data-toggle="modal"
@@ -330,7 +331,7 @@
                 <div class="card mb-2 ms-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Antonio Valdivia Morales  </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Antonio Valdivia Morales </h4>
                         </div>
                     </div>
                 </div>
@@ -405,7 +406,7 @@
                 <div class="card mb-3 me-1">
                     <div class="text-center">
                         <div class="card-body">
-                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Noé Romero Vázquez  </h4>
+                            <h4 class="card-title" style="font-family: Oswald, sans-serif;"> Noé Romero Vázquez </h4>
                         </div>
                     </div>
                 </div>
@@ -445,7 +446,7 @@
             </div>
         </div>
 
-         <div class="container mb-5" style=" font-family: BenchNine, sans-serif; !important">
+        <div class="container mb-5" style=" font-family: BenchNine, sans-serif; !important">
             <div class="row">
                 <div class="row animate-box ">
                     <div class="col-md-8 col-md-offset-2 text-center">
@@ -478,7 +479,7 @@
 
     <!-- Hospedaje Recomendado-->
 
-    <div id="fh5co-testimonial" class=""  style="background-image:url(images/fondo_seda_02.jpg); background-size: cover; background-size: cover;background-position: center; background-repeat: no-repeat; padding: 2em 0; z-index: 100;">
+    <div id="fh5co-testimonial" class="" style="background-image:url(images/fondo_seda_02.jpg); background-size: cover; background-size: cover;background-position: center; background-repeat: no-repeat; padding: 2em 0; z-index: 100;">
         <div id="hospedajerecomendado" class="container">
             <div class="row">
                 <div class="animate-box">
@@ -514,12 +515,12 @@
                                         </figure>
                                     </a>
                                     <span style="color:#aa9274; font-family: Oswald, sans-serif;">Cabañas El Oso<a target="_blank" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">
-                                        <br>La Cofradía, Mazamitla, Jal.</a></span>
+                                            <br>La Cofradía, Mazamitla, Jal.</a></span>
                                     <a target="_blank" style="color: #aa9274;" href="https://maps.app.goo.gl/HJM76mGgbFHYzamq9" class="twitter">Mapa</a>
                                 </div>
                             </div>
 
-                       
+
 
                             <!-- <div class="item">
                                 <div class="testimony-slide active text-center">
@@ -560,10 +561,10 @@
                             <h4 style="font-family: Imbue, serif; !important">Etiqueta</h4>
                             <p style="nt-family: BenchNine, sans-serif; !important">
                                 El blanco y el beige son hermosos pero en nuestra boda son exclusivos para la novia y el novio. <br>
-                                 Elige el color de tu preferencia evitando únicamente colores muy claros o similares al blanco como perla,
-                                  baby yellow, etc.
+                                Elige el color de tu preferencia evitando únicamente colores muy claros o similares al blanco como perla,
+                                baby yellow, etc.
                         </div>
-                     <a target="_blank" href="https://pin.it/60s78RckR" class="btn " style="color:#aa9274;  #background: #fdfdfd; border-color: #aa9274; height: 40px;">Te ayudamos con algunas ideas</a>
+                        <a target="_blank" href="https://pin.it/60s78RckR" class="btn " style="color:#aa9274;  #background: #fdfdfd; border-color: #aa9274; height: 40px;">Te ayudamos con algunas ideas</a>
 
                     </div>
                 </div>
@@ -592,40 +593,40 @@
             <div class="wrap-gift">
                 <div class="container">
                     <div class="row">
-                        
-                            <div class="card-gift mt-3 text-center animate-box mr-gift" style=" font-family: BenchNine, sans-serif; !important">
-                                <div class="card">
-                                    <div>
-                                        <img class="img-fluid" style="max-width: 50%;" src="images/mesa-regalos-liv.jpg">
-                                    </div>
-                                     <p>
-                                        “Gracias por su generosa contribución a nuestro comienzo juntos.”
-                                    </p>
-                                    <div class="card-body" style="margin-top: 15px;">
-                                        <h5 class="card-title">Liverpool</h5>
-                                        <h5 class="card-title">NUESTRA BODA MARYFER Y CESAR</h5>
-                                        <p class="card-text">Número de evento: 51736681</p>
-                                        <a target="_blank" href="https://mesaderegalos.liverpool.com.mx/milistaderegalos/51736681" class="btn btn-primary" style="background: #aa9274; border-color: #aa9274; height: 40px;">Regalar</a>
-                                    </div>
+
+                        <div class="card-gift mt-3 text-center animate-box mr-gift" style=" font-family: BenchNine, sans-serif; !important">
+                            <div class="card">
+                                <div>
+                                    <img class="img-fluid" style="max-width: 50%;" src="images/mesa-regalos-liv.jpg">
+                                </div>
+                                <p>
+                                    “Gracias por su generosa contribución a nuestro comienzo juntos.”
+                                </p>
+                                <div class="card-body" style="margin-top: 15px;">
+                                    <h5 class="card-title">Liverpool</h5>
+                                    <h5 class="card-title">NUESTRA BODA MARYFER Y CESAR</h5>
+                                    <p class="card-text">Número de evento: 51736681</p>
+                                    <a target="_blank" href="https://mesaderegalos.liverpool.com.mx/milistaderegalos/51736681" class="btn btn-primary" style="background: #aa9274; border-color: #aa9274; height: 40px;">Regalar</a>
                                 </div>
                             </div>
+                        </div>
 
-                            <div class="card-gift mt-3 text-center animate-box mr-gift" style=" font-family: BenchNine, sans-serif; !important">
-                                <div class="card">
-                                    <div>
-                                        <img class="img-fluid mt-5" style="max-width: 25%;" src="images/mesa-regalos-can.png">
-                                    </div>
-                                   
-                                    <div class="card-body" style="margin-top: 15px;">
-                                        <!-- <h5 class="card-title">El "Modernou":</h5> -->
-                                        <h5 class="card-title">Cantia </h5>
-                                        <p class="card-text">Maryfer y Cesar</p>
-                                        <p class="card-text">Número de evento: #Event22303</p>
+                        <div class="card-gift mt-3 text-center animate-box mr-gift" style=" font-family: BenchNine, sans-serif; !important">
+                            <div class="card">
+                                <div>
+                                    <img class="img-fluid mt-5" style="max-width: 25%;" src="images/mesa-regalos-can.png">
+                                </div>
 
-                                        <a target="_blank" href="https://cantia.com.mx/apps/giftregistry/registry/22303" class="btn " style="background: #aa9274; border-color: #aa9274; color: #ffffff; height: 40px;">Regalar</a>
-                                    </div>
+                                <div class="card-body" style="margin-top: 15px;">
+                                    <!-- <h5 class="card-title">El "Modernou":</h5> -->
+                                    <h5 class="card-title">Cantia </h5>
+                                    <p class="card-text">Maryfer y Cesar</p>
+                                    <p class="card-text">Número de evento: #Event22303</p>
+
+                                    <a target="_blank" href="https://cantia.com.mx/apps/giftregistry/registry/22303" class="btn " style="background: #aa9274; border-color: #aa9274; color: #ffffff; height: 40px;">Regalar</a>
                                 </div>
                             </div>
+                        </div>
 
 
                         <!-- <div class="card-gift mt-3 text-center animate-box mr-gift">
@@ -635,7 +636,7 @@
                                     <path d="M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982"/>
                                     <path d="M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z"/>
                                     </svg> -->
-                                    <!-- <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-gift-fill" viewBox="0 0 16 16">
+                        <!-- <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-gift-fill" viewBox="0 0 16 16">
                                     <path d="M3 2.5a2.5 2.5 0 0 1 5 0 2.5 2.5 0 0 1 5 0v.006c0 .07 0 .27-.038.494H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h2.038A3 3 0 0 1 3 2.506zm1.068.5H7v-.5a1.5 1.5 0 1 0-3 0c0 .085.002.274.045.43zM9 3h2.932l.023-.07c.043-.156.045-.345.045-.43a1.5 1.5 0 0 0-3 0zm6 4v7.5a1.5 1.5 0 0 1-1.5 1.5H9V7zM2.5 16A1.5 1.5 0 0 1 1 14.5V7h6v9z"/>
                                     </svg> -->
                         <!-- </div>
@@ -643,135 +644,135 @@
                                     <h5 class="card-title" style="font-family: Oswald, sans-serif;">NUESTRA BODA MARYFER Y CESAR</h5>
                                     <h4 class="card-text mt-5" style="font-family: Oswald, sans-serif;">Cuenta: 012 374 015969185966</h4>
                                     <h5 class="card-title " style="font-family: Oswald, sans-serif;">Titular: Mariela Valdez Rubio BBVA</h5> -->
-                                    <!-- <a target="_blank" href="#" class="btn btn-primary" style="background: #b78e24; border-color: #b78e24; height: 40px;">Regalar</a> -->
-                                <!-- </div>
+                        <!-- <a target="_blank" href="#" class="btn btn-primary" style="background: #b78e24; border-color: #b78e24; height: 40px;">Regalar</a> -->
+                        <!-- </div>
                             </div> -->
-                        </div>
-
                     </div>
-                </div>
 
+                </div>
             </div>
+
         </div>
+    </div>
     </div>
 
     <!-- Aviso -->
-     <div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/fondo_seda.jpg);">
+    <div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/fondo_seda.jpg);">
         <div class="overlay" style="background: rgb(0 0 0 / 76%);"></div>
         <div id="asistencia" class="container">
             <div class="row animate-box">
                 <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 
-                            <h4 style="color:white; font-family: BenchNine, sans-serif; !important"">Su presencia será el regalo más grande. Confirma pronto para hacer de este día un momento inolvidable.</h4>
+                    <h4 style="color:white; font-family: BenchNine, sans-serif; !important"">Su presencia será el regalo más grande. Confirma pronto para hacer de este día un momento inolvidable.</h4>
 
                         </div>
                 </div>
-                <div class="row animate-box" style="margin-bottom: 20px;">
+                <div class=" row animate-box" style="margin-bottom: 20px;">
                         <div class="col-md-10 col-md-offset-1 text-center">
-                                <form class="form-inline">
-                                        <div class="col-md-8 col-sm-8">
-                                            <div id="inpName" class="form-group">
-                                                <label for="name" class="sr-only">Nombre</label>
-                                                <input name="name" type="name" class="form-control" id="name"
-                                                    placeholder="Escribe tu nombre aquí y el de tus acompañantes.">
-                                            </div>
-                                        </div>
-                                    <!--div class="col-md-3 col-sm-3">
+                            <form class="form-inline">
+                                <div class="col-md-8 col-sm-8">
+                                    <div id="inpName" class="form-group">
+                                        <label for="name" class="sr-only">Nombre</label>
+                                        <input name="name" type="name" class="form-control" id="name"
+                                            placeholder="Escribe tu nombre aquí y el de tus acompañantes.">
+                                    </div>
+                                </div>
+                                <!--div class="col-md-3 col-sm-3">
                                         <div id="inpPers" class="form-group">
                                             <label for="pers" class="sr-only">Personas</label>
                                             <input name="pers" type="number" class="form-control" id="pers"
                                                 placeholder="N° Personas">
                                         </div>
                                     </div-->
-                                        <div class="col-md-4 col-sm-4">
-                                            <a style="padding-top: 16px; padding-left: 10px; padding-right: 10px; margin-top: 0px; font-size: 14px;" id="btnconf" type="submit"
-                                                class="btn btn-default btn-block">Confirmar Asistencia</a>
-                                        </div>
-                                </form>
+                                <div class="col-md-4 col-sm-4">
+                                    <a style="padding-top: 16px; padding-left: 10px; padding-right: 10px; margin-top: 0px; font-size: 14px;" id="btnconf" type="submit"
+                                        class="btn btn-default btn-block">Confirmar Asistencia</a>
+                                </div>
+                            </form>
                         </div>
                 </div>
-        </div>
-    </div>
-
-
-    <!-- Galería -->
-    <div id="fh5co-gallery" class="fh5co-section-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2 text-center animate-box">
-                    <span style=" font-family: BenchNine, sans-serif; !important"">Nuestros Recuerdos</span>
-                    <h2 class="d_title" style="color: #aa9274 !important; font-family: Dancing Script, cursive;">Galería</h2>
-                    <p style=" font-family: BenchNine, sans-serif; !important">Compartimos con gente especial una parte de nosotros.</p>
-                </div>
-            </div>
-            <div class="row row-bottom-padded-md">
-                <div class="col-md-12">
-                    <ul id="fh5co-gallery-list">
-
-                        <?php
-
-                        for ($i = 1; $i <= 10; $i++) {
-
-                        ?>
-                            <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/galeria/<?php echo $i ?>.jpg); ">
-                                <a target="_blank" href="images/galeria/<?php echo $i ?>.jpg">
-                                    <div class="case-studies-summary">
-
-                                        <h2></h2>
-                                    </div>
-                                </a>
-                            </li>
-                        <?php
-
-                        }
-
-                        ?>
-
-                    </ul>
-                </div>
             </div>
         </div>
-    </div>
 
-    <!-- Galería -->
-    <div id="fh5co-gallery" class="fh5co-section-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2 text-center animate-box">
-                    <h2 class="d_title" style="color: #aa9274 !important; font-family: Dancing Script, cursive;">Galería Cabañas El Oso</h2>
+
+        <!-- Galería -->
+        <div id="fh5co-gallery" class="fh5co-section-gray">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 text-center animate-box">
+                        <span style=" font-family: BenchNine, sans-serif; !important"">Nuestros Recuerdos</span>
+                    <h2 class=" d_title" style="color: #aa9274 !important; font-family: Dancing Script, cursive;">Galería</h2>
+                            <p style=" font-family: BenchNine, sans-serif; !important">Compartimos con gente especial una parte de nosotros.</p>
+                    </div>
                 </div>
-            </div>
-            <div class="row row-bottom-padded-md">
-                <div class="col-md-12">
-                    <ul id="fh5co-gallery-list">
+                <div class="row row-bottom-padded-md">
+                    <div class="col-md-12">
+                        <ul id="fh5co-gallery-list">
 
-                        <?php
+                            <?php
 
-                        for ($i = 1; $i <= 31; $i++) {
+                            for ($i = 1; $i <= 10; $i++) {
 
-                        ?>
-                            <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/galeria_cabana/<?php echo $i ?>.PNG); ">
-                                <a target="_blank" href="images/galeria_cabana/<?php echo $i ?>.PNG">
-                                    <div class="case-studies-summary">
+                            ?>
+                                <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/galeria/<?php echo $i ?>.jpg); ">
+                                    <a target="_blank" href="images/galeria/<?php echo $i ?>.jpg">
+                                        <div class="case-studies-summary">
 
-                                        <h2></h2>
-                                    </div>
-                                </a>
-                            </li>
-                        <?php
+                                            <h2></h2>
+                                        </div>
+                                    </a>
+                                </li>
+                            <?php
 
-                        }
+                            }
 
-                        ?>
+                            ?>
 
-                    </ul>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
 
-    <!-- Galería -->
-    <!-- <div id="fh5co-gallery" class="fh5co-section-gray">
+        <!-- Galería -->
+        <div id="fh5co-gallery" class="fh5co-section-gray">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 text-center animate-box">
+                        <h2 class="d_title" style="color: #aa9274 !important; font-family: Dancing Script, cursive;">Galería Cabañas El Oso</h2>
+                    </div>
+                </div>
+                <div class="row row-bottom-padded-md">
+                    <div class="col-md-12">
+                        <ul id="fh5co-gallery-list">
+
+                            <?php
+
+                            for ($i = 1; $i <= 31; $i++) {
+
+                            ?>
+                                <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/galeria_cabana/<?php echo $i ?>.PNG); ">
+                                    <a target="_blank" href="images/galeria_cabana/<?php echo $i ?>.PNG">
+                                        <div class="case-studies-summary">
+
+                                            <h2></h2>
+                                        </div>
+                                    </a>
+                                </li>
+                            <?php
+
+                            }
+
+                            ?>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Galería -->
+        <!-- <div id="fh5co-gallery" class="fh5co-section-gray">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center animate-box">
@@ -819,7 +820,7 @@
         </div>
     </div> -->
 
-    <!--div id="fh5co-counter" class="fh5co-bg fh5co-counter" style="background-image:url(images/img_bg_5.jpg);">
+        <!--div id="fh5co-counter" class="fh5co-bg fh5co-counter" style="background-image:url(images/img_bg_5.jpg);">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
@@ -872,30 +873,30 @@
 		</div>
 	</div-->
 
-    <footer id="fh5co-footer" role="contentinfo">
-        <div class="container">
+        <footer id="fh5co-footer" role="contentinfo">
             <div class="container">
-                <!--<div style="padding: 20px 100px; display: flex; flex-direction: column; align-items: center;">
+                <div class="container">
+                    <!--<div style="padding: 20px 100px; display: flex; flex-direction: column; align-items: center;">
                     <img src="images\footer-logo.png" alt="" class="img-resp">
                     <a href="https://lozania.com.mx/" target="_blank"
                         style="color: #6e4e37ff; font-size: 14px; text-align: center;"><strong>Lozania Eventos
                         </strong></a>
                 </div>-->
-                <div class="row copyright">
-                    <div class="col-md-12 text-center">
-                        <p>
-                        </p>
-                        <div class="container fotRid">
-                            Designed by
-                            <a style="color: #d39e00;" target="_blank" href="https://api.whatsapp.com/send?phone=523317025046&amp;text=Me%20gustar%C3%ADa%20tener%20un%20sitio%20web%2C%20vi%20un%20ejemplo%20en%20www.invitacionvirtual.com">
-                                NopalliTech
-                            </a>
+                    <div class="row copyright">
+                        <div class="col-md-12 text-center">
+                            <p>
+                            </p>
+                            <div class="container fotRid">
+                                Designed by
+                                <a style="color: #d39e00;" target="_blank" href="https://api.whatsapp.com/send?phone=523317025046&amp;text=Me%20gustar%C3%ADa%20tener%20un%20sitio%20web%2C%20vi%20un%20ejemplo%20en%20www.invitacionvirtual.com">
+                                    NopalliTech
+                                </a>
+                            </div>
+                            <p></p>
                         </div>
-                        <p></p>
                     </div>
                 </div>
-            </div>
-    </footer>
+        </footer>
     </div>
 
     <div class="gototop js-top">
@@ -936,7 +937,7 @@
         const icon = document.getElementById('icon');
         const audio = document.getElementById('weddingSong');
 
-        playBtn.addEventListener('click', function () {
+        playBtn.addEventListener('click', function() {
             if (audio.paused) {
                 audio.play();
                 icon.classList.remove('fa-play');
@@ -951,22 +952,22 @@
 
 
     <!-- Modal Paroquia Img-->
-       <div class="modal fade" id="parroquiaimg" tabindex="-1" aria-hidden="true">
+    <div class="modal fade" id="parroquiaimg" tabindex="-1" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
+                <div class="modal-header">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
 
-            <div class="modal-body p-0 d-flex justify-content-center">
-                <img 
-                src="images/Parroquia_De_San_Miguel_Arcangel.jpeg"
-                class="img-fluid"
-                alt="Parroquia de San Miguel Arcángel">
-            </div>
+                <div class="modal-body p-0 d-flex justify-content-center">
+                    <img
+                        src="images/Parroquia_De_San_Miguel_Arcangel.jpeg"
+                        class="img-fluid"
+                        alt="Parroquia de San Miguel Arcángel">
+                </div>
             </div>
         </div>
-        </div>
+    </div>
 
 
 
