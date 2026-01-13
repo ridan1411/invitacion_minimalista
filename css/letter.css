@@ -34,7 +34,7 @@
   position: relative;
   width: 300px;
   height: 200px;
-  background-color: #f08080;
+  background-color: #1e1e1e;
 }
 
 .envelope_letter:before {
@@ -46,7 +46,7 @@
   left: 44px;
   transform: rotate(45deg);
   border-radius: 30px 0 0 0;
-  background-color: #f08080;
+  background-color: #000000;
 }
 
 .card_letter {
@@ -55,10 +55,10 @@
   left: 15px;
   width: 270px;
   height: 170px;
-  background-color: #eae2b7;
+  background-color: #ffffff;
   box-shadow: -5px -5px 100px rgba(0,0,0,0.4);
 }
-
+w
 .card_letter:before {
   content:"";
   position: absolute;
@@ -129,7 +129,7 @@
 
 .front_letter {
   position: absolute;
-  border-right: 180px solid #f4978e;
+  border-right: 180px solid #100e0e;
   border-top: 95px solid transparent;
   border-bottom: 100px solid transparent;
   left: 120px;
@@ -142,7 +142,7 @@
 .front_letter:before {
   position: absolute;
   content: "";
-  border-left: 300px solid #f8ad9d;
+  border-left: 300px solid #2f2e2e;
   border-top: 195px solid transparent;
   left: -120px;
   top: -95px;

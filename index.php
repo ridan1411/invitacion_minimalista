@@ -33,6 +33,7 @@
     <link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Imbue:opsz,wght@10..100,100..900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=BenchNine:wght@300;400;700&family=Imbue:opsz,wght@10..100,100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Herr+Von+Muellerhoff&display=swap" rel="stylesheet">
     <!-- Fonts -->
 
     <!-- Font Awesome -->
@@ -154,7 +155,7 @@
 
                                         <!-- Audio -->
                                         <audio id="weddingSong">
-                                            <source src="audio/ed_Sheeran_Photograph.mp3" type="audio/mpeg">
+                                            <source src="audio/tu_de_que_vas.mp3" type="audio/mpeg">
                                             Tu navegador no soporta audio HTML5.
                                         </audio>
                                     </div>
@@ -172,14 +173,16 @@
     </div>
     </header>
 
-    <div class="texto-titulo mt-1" style="padding: 40px; font-family: BenchNine, sans-serif;">
-        <p>He aquí que a pocos pasos me encontré al que adora mi alma. Corintios 3:4 <br>
+    <div class="texto-titulo mt-1">
+        <p style="font-family: Herr Von Muellerhoff, cursive; font-size: 30px;">
+            He aquí que a pocos pasos me encontré al que adora mi alma. Corintios 3:4</p>  
+        <p  style="padding-left: 40px; padding-right: 40px; font-family: BenchNine, sans-serif;"> 
             Creemos que el amor verdadero no llega por casualidad, sino como un regalo divino, 
             un encuentro guiado por Dios y por aquello que nos une más allá de lo visible. <br>
             Nuestros caminos se cruzaron para recordarnos que amar también es crecer, sanar, 
             aprender y elegirnos con el corazón abierto, incluso cuando el mundo parece detenerse. <br>
             Hoy decidimos unir nuestras vidas y caminar juntos bajo la promesa de cuidarnos, amarnos y honrar nuestras raíces, 
-            agradeciendo profundamente a quienes nos enseñaron a amar y a creer en la familia y 
+            agradeciendo profundamente a quienes nos enseñaron a amar y a crecer en familia y 
             llevando en el corazón la presencia viva de aquellos que ya no están físicamente, pero que siguen guiándonos y
             bendiciendo este camino desde otro lugar. <br>
             Nada nos haría más felices que compartir este día tan especial con ustedes, 
@@ -956,7 +959,7 @@
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
-                <div class="modal-body" style="background-image:url(images/Parroquia_De_San_Miguel_Arcangel.jpeg); background-size: cover; background-position: center; background-repeat: no-repeat; min-height: 50vh;">
+                <div class="modal-body" style="background-image:url(images/Parroquia_De_San_Miguel_Arcangel.jpeg); background-size: cover; background-repeat: no-repeat; min-height: 100vh">
                 </div>
             </div>
         </div>
