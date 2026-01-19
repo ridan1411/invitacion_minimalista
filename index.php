@@ -117,7 +117,7 @@
                                                                                             Nuestra Boda <br>
                                                                                             25·04·2026
                                                                                             </div>
-                                                                                <div class="heart_letter"></div>
+                                                                                <!-- <div class="heart_letter"></div> -->
                                                             </div>
 
                                                             <div class="hearts_letter">
