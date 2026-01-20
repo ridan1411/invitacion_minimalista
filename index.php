@@ -137,11 +137,11 @@
             <div class="container">
 
                 <div class="row">
-                    <div class="col-md-8 col-md-offset-2 text-center">
-                        <div class="display-t">
+                    <div class="col-md-8 text-center mx-auto">
+                            <div class="display-t">
                             <div class="display-tc animate-box " data-animate-effect="fadeIn">
-                                <h1 style="font-family:  Bodoni Moda", serif;">VALERIA<br> &amp; <br>NELSON</h1>
-                                <h2 style="font-family:  Bodoni Moda", serif; !important">25 Abril, 2026</h2>
+                                <h1 style="font-family:  Bodoni Moda, serif; !important">VALERIA<br> &amp; <br>NELSON</h1>
+                                <h2 style="font-family:  Bodoni Moda, serif; !important">25 Abril, 2026</h2>
                                 <div id="cuenta" class="simply-countdown simply-countdown-one"></div><!-- aqui uno -->
                                 <!--link agenda google calendar-->
                                 
@@ -160,10 +160,10 @@
                                     </div>
                                 </div>
                                 <br>
-                                                     <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+                                                     <!-- <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
                                                              <a target="_blank" href="https://calendar.app.google/gzY49r8J7HW3DaMp8" class="btn pb-2" style="background: #fdfdfd;
                                                             border-color: #aa9274;">Save the Date</a>
-                                                    </div>
+                                                    </div> -->
                             </div>
                         </div>
                     </div>
@@ -172,8 +172,8 @@
     </div>
     </header>
 
-    <div class="texto-titulo">
-        <p style="font-family: Herr Von Muellerhoff, cursive; font-size: 30px;">
+    <div style="background-color: #d9ead3 !important" class="texto-titulo">
+        <p style="font-family: Herr Von Muellerhoff, cursive; font-size: 30px; ">
             <!-- He aquí que a pocos pasos me encontré al que adora mi alma. Corintios 3:4</p>   -->
         <p  style="padding-left: 50px; padding-right: 50px; font-family: Cormorant Garamond, serif;"> 
            Con mucha alegría y emoción queremos compartir con ustedes una de las decisiones más importantes de nuestras vidas. 
@@ -184,15 +184,15 @@
     </div>
 
     <!-- Welcome -->
-    <div id="welcome" class="mt-3 mb-3" style="margin-top: 40px;">
+    <div id="welcome" class="mt-3 mb-3" style="">
             <div class="container">
                 <div class="couple-wrap animate-box">
                     <div class="couple-half">
                         <div class="groom">
-                            <img src="images/valeria-javier/novia01.jpg" alt="groom" class="img-responsive">
+                            <img src="../images/valeria-nelson/002.jpg"alt="groom" class="img-responsive">
                         </div>
                         <div class="desc-groom">
-                            <h3 style="margin-bottom: 0px;">Valeria Pizaña Campos</h3>
+                            <h3 style="margin-bottom: 0px; font-family:  Bodoni Moda, serif; !important">Valeria Pizaña Campos</h3>
                         <!-- <p> "Eres tú y nadie más, Tú, con quien quiero reír, caer y caminar en esta vida" </p> -->
 
                         </div>
@@ -200,10 +200,10 @@
                     <p class="heart text-center"><i class="icon-heart2"></i></p>
                     <div class="couple-half">
                         <div class="bride">
-                            <img src="images/valeria-javier/novio01.jpg" alt="groom" class="img-responsive">
+                            <img src="../images/valeria-nelson/001.jpg" alt="groom" class="img-responsive">
                         </div>
                         <div class="desc-bride">
-                            <h3 style="margin-bottom: 0px;">Nelson Alan Marquez Turrubiates</h3>
+                            <h3 style="margin-bottom: 0px; font-family:  Bodoni Moda, serif; !important">Nelson Alan Marquez Turrubiates</h3>
                             <!-- <p> "Eres tú y nadie más, Tú, con quien quiero reír, caer y caminar en esta vida" </p> -->
                         </div>
                     </div>
@@ -212,7 +212,9 @@
         </div>
 
     <!-- Evento -->
-    <div id="fh5co-event" class="fh5co-bg" style="background-image:url(images/fondo_seda_01.jpg); background-size: cover; background-size: cover;background-position: center; background-repeat: no-repeat; padding: 2em 0; z-index: 100;">
+    <div id="fh5co-event" class="fh5co-bg" style="
+        background-size: cover; background-size: cover;background-position: center; 
+        background-repeat: no-repeat; padding: 2em 0; z-index: 100;">
         <div class="overlay"></div>
         <div id="cuandodonde" class="container">
             <div class="row">
@@ -221,8 +223,8 @@
                         <div class="col-md-12">
                             <div class="col-md-6 col-sm-6 text-center">
                                 <div class="event-wrap animate-box" style="padding: 25px;">
-                                    <span><i style="color: #aa9274;" class="fas fa-church fa-3x"></i></span>
-                                    <h3 style="font-family:  Bodoni Moda", serif; color:black; padding-bottom: 0px !important;">Ceremonia Religiosa
+                                    <span><i style="color: #007a3f;" class="fas fa-church fa-3x"></i></span>
+                                    <h3 style="font-family:  Bodoni Moda, serif; color:black; padding-bottom: 0px !important;">Ceremonia Religiosa
                                     </h3>
                                     <div class="event-col " style=" font-family: Cormorant Garamond, serif; !important">
                                         <p style="color:black; margin-bottom: 0px;"> Sabado, 25 de Abril de 2026
@@ -230,7 +232,7 @@
                                         <p style="color:black;"> 12:00 PM </p>
                                     </div>
                                     <div>
-                                        <i class="icon-location" style="color:#aa9274;"></i>
+                                        <i class="icon-location" style="color:#007a3f;"></i>
                                     </div>
                                     <div style=" font-family: Cormorant Garamond, serif; !important">
                                         <p style="color:black;  margin-bottom: 0px;">Parroquia de San Cristobal
@@ -240,20 +242,20 @@
                                     </div>
                                     <div style=" font-family: Cormorant Garamond, serif; !important">
                                         <strong>
-                                            <p style="margin-bottom: 0px;"><a style="color: #aa9274;"
+                                            <p style="margin-bottom: 0px;"><a style="color: #007a3f;"
                                                     target="_blank"
                                                     href="https://maps.app.goo.gl/2zSLA5aiUPzAssaN8">Google Maps</a></p>
                                         </strong>
                                     </div>
                                     <div style=" font-family: Cormorant Garamond, serif; !important">
-                                        <strong><a style="color: #aa9274; cursor: pointer;" data-toggle="modal"
+                                        <strong><a style="color: #007a3f; cursor: pointer;" data-toggle="modal"
                                                 data-target="#parroquiaimg">Foto</a></strong>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6 col-sm-6 text-center">
                                 <div class="event-wrap animate-box" style="padding: 25px;">
-                                    <span><i style="color: #aa9274;;" class="fas fa-glass-cheers fa-3x"></i></span>
+                                    <span><i style="color: #007a3f;" class="fas fa-glass-cheers fa-3x"></i></span>
                                     <h3 style="color:black; padding-bottom: 0px !important; font-family:  Bodoni Moda", serif; !important">Evento</h3>
                                     <div class="event-col" style=" font-family: Cormorant Garamond, serif; !important">
                                         <p style="color:black; margin-bottom: 0px;"> Sabado, 25 de Abril de 2026
@@ -261,21 +263,21 @@
                                         <p style="color:black;"> 04:30 PM </p>
                                     </div>
                                     <div>
-                                        <i class="icon-location" style="color:#aa9274;"></i>
+                                        <i class="icon-location" style="color:#007a3f;"></i>
                                     </div>
                                     <div style=" font-family: Cormorant Garamond, serif; !important">
-                                        <p style="color:black;  margin-bottom: 0px; font-family: Oswald, sans-serif;">La bonita, Mazamitla Jalisco</p>
-                                        <p style="color:black; font-family: Oswald, sans-serif;">Km 5 Mazamitla - Tuxcueca, La Estacada - Mazamitla, 49500 Mazamitla, Jal.</p>
+                                        <p style="color:black;">La bonita, Mazamitla Jalisco</p>
+                                        <p style="color:black;">Km 5 Mazamitla - Tuxcueca, La Estacada - Mazamitla, 49500 Mazamitla, Jal.</p>
                                     </div>
-                                      <br>
+                                      
                                     <div style=" font-family: Cormorant Garamond, serif; !important">
                                         <strong>
-                                            <p style="margin-bottom: 0px;"><a style="color: #aa9274;;" target="_blank" href="https://maps.app.goo.gl/BxuH9NZ8JANzNgYc8">Google Maps</a></p>
+                                            <p style="margin-bottom: 0px;"><a style="color: #007a3f;" target="_blank" href="https://maps.app.goo.gl/BxuH9NZ8JANzNgYc8">Google Maps</a></p>
                                         </strong>
                                     </div>
                                     <div>
                                         <strong>
-                                            <a style="color: #aa9274;; cursor: pointer;" data-toggle="modal"
+                                            <a style="color: #007a3f; cursor: pointer;" data-toggle="modal"
                                                 data-target="#labonitaimg">Foto</a>
                                         </strong>
                                       
@@ -473,17 +475,17 @@
 
     <!-- Hospedaje Recomendado-->
 
-    <div id="fh5co-testimonial" class=""  style="background-image:url(images/fondo_seda_02.jpg); background-size: cover; background-size: cover;background-position: center; background-repeat: no-repeat; padding: 2em 0; z-index: 100;">
-        <div id="hospedajerecomendado" class="container">
+    <div id="fh5co-testimonial" class=""  style="background-color: #d9ead3 !important ; z-index: 100;">
+        <div id="hospedajerecomendado" class="">
             <div class="row">
                 <div class="animate-box">
-                    <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style="margin-bottom: 10px !important;">
-                        <span>Hospedaje Recomendado</span>
-                        <!-- <h5 class="sub-titulo-hotel" style="font-family: Oswald, sans-serif;">¡Mazamitla cuenta con hospedajes de todos los tamaños y para todos los presupuestos!</h5> -->
+                    <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" 
+                    style="font-family:Cormorant Garamond, serif important; ">
+                        <span style="font-size:x-large !important; color: #007a3f;">Hospedaje Recomendado</span>
                     </div>
                 </div>
 
-                <div class="col-md-12 animate-box pt-3" style=" font-family: Cormorant Garamond, serif; !important">
+                <div class="col-md-12 animate-box" style=" font-family: Cormorant Garamond, serif !important">
                     <div class="wrap-testimony">
                         <div class="owl-carousel-fullwidth">  
                             
@@ -492,7 +494,7 @@
                                 <div class="testimony-slide active text-center">
                                     <a target="_blank" href="https://www.bosqueescondido.com.mx/">
                                                     <figure>
-                                                        <img src="images/cabana_el_oso.png" alt="Portozul Hotel & Suites">
+                                                        <img src="images/haciendaBosqueEscondido.webp" alt="Portozul Hotel & Suites">
                                                     </figure>
                                     </a>           
                                     <span>Bosque Escondido</span>
@@ -505,7 +507,7 @@
                                 <div class="testimony-slide active text-center">
                                     <a target="_blank" href="https://latrojedemazamitla.com.mx/">
                                                     <figure>
-                                                        <img src="images/cabana_el_oso.png" alt="Portozul Hotel & Suites">
+                                                        <img src="images/latroje.jpg" alt="Portozul Hotel & Suites">
                                                     </figure>
                                     </a>           
                                     <span>Hotel La Troje</span>
@@ -518,7 +520,7 @@
                                 <div class="testimony-slide active text-center">
                                     <a target="_blank" href="https://www.lenadormazamitla.com/">
                                                     <figure>
-                                                        <img src="images/cabana_el_oso.png" alt="Portozul Hotel & Suites">
+                                                        <img src="images/hotelLenador.png" alt="Portozul Hotel & Suites">
                                                     </figure>
                                     </a>           
                                     <span>Hotel El Leñador</span>
@@ -568,7 +570,7 @@
 
             <div class="row animate-box">
                 <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style='margin-bottom: 5px;'>
-                    <h2 class="d_title" style="color: #aa9274 !important; font-size:2.5rem !important; font-family:  Bodoni Moda", serif; !important">Código de Vestimenta</h2>
+                    <h2 class="d_title" style="color: #007a3f!important; font-size:2.5rem !important; font-family:  Bodoni Moda", serif; !important">Código de Vestimenta</h2>
                 </div>
             </div>
 
@@ -576,8 +578,8 @@
                 <div class="animate-box text-center">
                     <div class="col-md-12">
                         <div>
-                            <h4 style="font-family:  Bodoni Moda", serif; !important">Formal</h4>
-                            <p style="nt-family: BenchNine, sans-serif; !important">
+                            <h4 style="font-family:  Bodoni Moda, serif; !important">Formal</h4>
+                            <p style="font-family: Cormorant Garamond, serif; !important">
                                 ¡Valoramos que cumplas con la paleta de colores sugerida!
                                  Será en jardín, no olvides tu abrigo, hombres no lleven color beige o cafe 
                         </div>
@@ -600,11 +602,11 @@
     </div>
 
     <!-- Mesa de Regalos -->
-    <div id="fh5co-testimonial" class="" style="margin-bottom: 30px;">
+    <div id="fh5co-testimonial" class="" style=" background-color: #d9ead3 !important ;">
         <div id="mesaregalos" class="container">
             <div class="row animate-box">
                 <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style="margin-bottom: 0px;">
-                    <h2 style="color: #aa9274 !important; font-size:2.5rem !important; font-family:  Bodoni Moda", serif; !important">Mesa de Regalos</h2>
+                    <h2 style="color: #007a3f!important; font-size:2.5rem !important; font-family:  Bodoni Moda", serif; !important">Mesa de Regalos</h2>
                 </div>
             </div>
             <div class="wrap-gift">
@@ -619,12 +621,12 @@
                                      <p>
                                         “Gracias por su generosa contribución a nuestro comienzo juntos.”
                                     </p>
-                                    <div class="card-body" style="margin-top: 15px;">
+                                    <div class="card-body" style="margin-top: 15px; font-family: Cormorant Garamond, serif; !important">
                                         <h5 class="card-title">Liverpool</h5>
                                         <h5 class="card-title">Nuestra Boda Valeria Y Nelson</h5>
                                         <p class="card-text">Número de evento: 51932650</p>
                                         <a target="_blank" href="https://mesaderegalos.liverpool.com.mx/milistaderegalos/51932650" 
-                                            class="btn btn-primary" style="background: #aa9274; border-color: #aa9274; height: 40px;">Regalar</a>
+                                            class="btn btn-primary" style="background: #007a3f; border-color: #aa9274; height: 40px;">Regalar</a>
                                     </div>
                                 </div>
                             </div>
@@ -675,7 +677,7 @@
     </div>
 
     <!-- Aviso -->
-     <div id="fh5co-started" class="fh5co-bg" style="background-image:url(images/fondo_seda.jpg);">
+     <div id="fh5co-started" class="fh5co-bg" style="background-image:url(../images/valeria-nelson/21.jpg); background-color: #d9ead3 !important ;">
         <div class="overlay" style="background: rgb(0 0 0 / 76%);"></div>
         <div id="asistencia" class="container">
             <div class="row animate-box">
@@ -703,7 +705,7 @@
                                         </div>
                                     </div-->
                                         <div class="col-md-4 col-sm-4">
-                                            <a style="padding-top: 16px; padding-left: 10px; padding-right: 10px; margin-top: 0px; font-size: 14px;" id="btnconf" type="submit"
+                                            <a style="color:#007a3f; padding-top: 16px; padding-left: 10px; padding-right: 10px; margin-top: 0px; font-size: 14px;" id="btnconf" type="submit"
                                                 class="btn btn-default btn-block">Confirmar Asistencia</a>
                                         </div>
                                 </form>
@@ -714,12 +716,12 @@
 
 
     <!-- Galería -->
-    <div id="fh5co-gallery" class="fh5co-section-gray">
+    <div id="fh5co-gallery" class="fh5co-section-gray" style="background-color: #bfecac !important;">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center animate-box">
                     <span style=" font-family: Cormorant Garamond, serif; !important"">Nuestros Recuerdos</span>
-                    <h2 class="d_title" style="color: #aa9274 !important; font-family: Dancing Script, cursive;">Galería</h2>
+                    <h2 class="d_title" style="color: #007a3f!important; font-family: Dancing Script, cursive;">Galería</h2>
                     <p style=" font-family: Cormorant Garamond, serif; !important">Compartimos con gente especial una parte de nosotros.</p>
                     <a class="btn btn-primary" target="_blank" href="https://jacobvelez.pixieset.com/valeandnelson/">Más recuerdos aqui</a>
                 </div>
@@ -872,7 +874,7 @@
                         </p>
                         <div class="container fotRid">
                             Designed by
-                            <a style="color: #d39e00;" target="_blank" href="https://api.whatsapp.com/send?phone=523317025046&amp;text=Me%20gustar%C3%ADa%20tener%20un%20sitio%20web%2C%20vi%20un%20ejemplo%20en%20www.invitacionvirtual.com">
+                            <a style="color: #007a3f" target="_blank" href="https://api.whatsapp.com/send?phone=523317025046&amp;text=Me%20gustar%C3%ADa%20tener%20un%20sitio%20web%2C%20vi%20un%20ejemplo%20en%20www.invitacionvirtual.com">
                                 NopalliTech
                             </a>
                         </div>
