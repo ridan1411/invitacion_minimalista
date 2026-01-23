@@ -189,7 +189,7 @@
                 <div class="couple-wrap animate-box">
                     <div class="couple-half">
                         <div class="groom">
-                            <img src="../images/valeria-nelson/002.jpg"alt="groom" class="img-responsive">
+                            <img src="images/valeria-nelson/002.jpg"alt="groom" class="img-responsive">
                         </div>
                         <div class="desc-groom">
                             <h3 style="margin-bottom: 0px; font-family:  Bodoni Moda, serif; !important">Valeria Pizaña Campos</h3>
@@ -200,7 +200,7 @@
                     <p class="heart text-center"><i class="icon-heart2"></i></p>
                     <div class="couple-half">
                         <div class="bride">
-                            <img src="../images/valeria-nelson/001.jpg" alt="groom" class="img-responsive">
+                            <img src="images/valeria-nelson/001.jpg" alt="groom" class="img-responsive">
                         </div>
                         <div class="desc-bride">
                             <h3 style="margin-bottom: 0px; font-family:  Bodoni Moda, serif; !important">Nelson Alan Marquez Turrubiates</h3>
