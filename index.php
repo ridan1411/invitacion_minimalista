@@ -916,7 +916,7 @@
 
 
     <!-- Main -->
-    <script src="js/main.js?v=5.1.1"></script>
+    <script src="js/main.js?v=6.1.1"></script>
 
     <script>
         const playBtn = document.getElementById('playBtn');
