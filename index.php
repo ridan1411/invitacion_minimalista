@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Mi Boda | Maryfer y Cesar</title>
+    <title>Mi Boda | Valeria y Nelson</title>
     <link rel="shortcut icon" type="image/x-icon" href="images/ico.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=" " />
@@ -154,7 +154,7 @@
 
                                         <!-- Audio -->
                                         <audio id="weddingSong">
-                                            <source src="audio/tu_de_que_vas.mp3" type="audio/mpeg">
+                                            <source src="audio/Everlong_(Acoustic_Version).mp3" type="audio/mpeg">
                                             Tu navegador no soporta audio HTML5.
                                         </audio>
                                     </div>
@@ -583,6 +583,7 @@
                                 ¡Valoramos que cumplas con la paleta de colores sugerida!
                                  Será en jardín, no olvides tu abrigo, hombres no lleven color beige o cafe 
                         </div>
+                        <img style="width: 25%;" src="images/paleta.jpeg" alt="">
                      <!-- <a target="_blank" href="https://pin.it/60s78RckR" class="btn " style="color:#aa9274;  #background: #fdfdfd; border-color: #aa9274; height: 40px;">Te ayudamos con algunas ideas</a> -->
 
                     </div>
@@ -675,6 +676,42 @@
             </div>
         </div>
     </div>
+
+    <!-- Peticion -->
+    <div id="fh5co-services" class="fh5co-section-gray">
+    <div id="video-section" class="container">
+
+        <div class="row animate-box">
+            <div class="col-md-8 col-md-offset-2 text-center fh5co-heading" style="margin-bottom: 20px;">
+                <h2 class="d_title" style="color: #007a3f!important; font-size:2.5rem !important; font-family: 'Bodoni Moda', serif !important;">
+                   Footloose
+                </h2>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="animate-box text-center">
+                <div class="col-md-12">
+                    
+                    <div style="margin-bottom: 30px;">
+                        <p style="font-family: 'Cormorant Garamond', serif !important; font-size: 18px;">
+                                    Prepárense para celebrar con nosotros y aprender la coreografía 
+                                    grupal que bailaremos juntos en nuestra gran noche                   
+                        </p>
+                    </div>
+
+                     <a target="_blank" href="https://www.youtube.com/watch?v=vYu2ArcT1EU" 
+                        class="btn btn-primary" style="background: #007a3f; border-color: #aa9274; height: 40px;">Aprende aqui</a>
+
+
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+    </div>
+</div>
 
     <!-- Aviso -->
      <div id="fh5co-started" class="fh5co-bg" style="background-image:url(../images/valeria-nelson/21.jpg); background-color: #d9ead3 !important ;">
